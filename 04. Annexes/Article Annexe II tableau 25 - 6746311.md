@@ -25,6 +25,8 @@ c) complications non spécifiques :
 pneumothorax spontané ; suppuration broncho-pulmonaire subaiguë ou chronique ; insuffisance respiratoire aiguë nécessitant
 des soins intensifs en milieu spécialisé
 
+d) Association d'une pneumoconiose avec une sclérodermie systémique progressive (syndrome d'Erasmus).
+
 DELAI DE PRISE EN CHARGE : 15 ans (sous réserve des dispositions du décret pris en application de l'article L. 461-7 du code
 de la sécurité sociale). 
 
@@ -71,9 +73,9 @@ _Codifié par_:
 
   - Décret n°85-1353 1985-12-17
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
+  - Décret n°92-1348 du 23 décembre 1992 - art. 1 () JORF 24 décembre 1992
 
 _Cite_:
 
