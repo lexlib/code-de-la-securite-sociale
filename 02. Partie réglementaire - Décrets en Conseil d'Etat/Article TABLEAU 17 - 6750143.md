@@ -1,16 +1,4 @@
-# Code de la sécurité sociale  
-Version Consolidée au 1961-01-12
-## Contenu: 
-  - [Partie réglementaire - Décrets en Conseil d'Etat (art. TABLEAU 17)](#1)
-    - [Tableaux des maladies professionnelles prévus à l'article R. 461-3 (art. TABLEAU 17)](#2)
-      - [17. DERMATOSES CAUSEES PAR L'ACTION DU SESQUISULFURE DE PHOSPHORE. (art. TABLEAU 17)](#3)
-# Partie réglementaire - Décrets en Conseil d'Etat<a id=1></a>
-
-## Tableaux des maladies professionnelles prévus à l'article R. 461-3<a id=2></a>
-
-### 17. DERMATOSES CAUSEES PAR L'ACTION DU SESQUISULFURE DE PHOSPHORE.<a id=3></a>
-
-###### Article TABLEAU 17
+# Article TABLEAU 17
 
 MALADIES ENGENDREES PAR LE SESQUISULFURE DE PHOSPHORE Dermites aiguës, chroniques ou récidivantes dues au sesquisulfure de
 phosphore (phosphorides) DELAI DE PRISE EN CHARGE : 30 jours
@@ -33,5 +21,3 @@ _Abrogé par_:
 **Liens**:
 
   - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
-
-
