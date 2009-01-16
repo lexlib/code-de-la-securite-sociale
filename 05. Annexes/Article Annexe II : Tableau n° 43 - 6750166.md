@@ -26,7 +26,7 @@ LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
     <tr>
       <td valign="top" width="246">
 
-Ulcérations cutanées.
+Dermatites irritatives  
 
 </td>
       <td valign="top" width="76">
@@ -85,14 +85,6 @@ par test.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°85-1353 1985-12-17
-
 _Modifié par_:
 
-  - Décret n°2003-110 du 11 février 2003 - art. 2 () JORF 13 février 2003
-
-**Liens**:
-
-  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+  - Décret n°2009-56 du 15 janvier 2009 - art. 1
