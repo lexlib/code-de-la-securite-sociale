@@ -1,41 +1,35 @@
 # Article Annexe II : Tableau n° 36 bis
 
-**
-
-Affections cutanées cancéreuses provoquées par les dérivés suivants du pétrole : extraits aromatiques, huiles minérales
-utilisées à haute température dans les opérations d'usinage et de traitement des métaux, suies de combustion des produits
-pétroliers**
+**Affections cancéreuses provoquées par les dérivés suivants du pétrole : huiles minérales peu ou non raffinées et huiles
+minérales régénérées utilisées dans les opérations d'usinage et de traitement des métaux, extraits aromatiques, résidus de
+craquage, huiles moteur usagées ainsi que suies de combustion des produits pétroliers**
 
 <pre>
-┏━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DÉSIGNATION DE │ DÉLAI de prise en charge │ LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer cette maladie          ┃
-┃ LA MALADIE     │                          │                                                                               ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Epithéliomas   │ 30 ans (sous réserve     │ Travaux d'usinage par enlèvement ou déformation de matière ou travaux de      ┃
-┃ primitifs de   │ d'une durée d'exposition │ traitement des métaux et alliages comportant l'emploi d'huile minérale.       ┃
-┃ la peau.       │ minimale de 10 ans)      │                                                                               ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃                │                          │ Travaux comportant la manipulation et l'emploi d'extraits aromatiques pétro-  ┃
-┃                │                          │ liers utilisés notamment comme huiles d'extension, d'ensimage, de démoulage,  ┃
-┃                │                          │ à l'exclusion des polymérisats et des élastomères contenant des huiles d'ex-  ┃
-┃                │                          │ tension.                                                                      ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃                │                          │ Travaux de ramonage et de nettoyage de chaudières et de cheminées exposant    ┃
-┃                │                          │ aux suies de combustion de produits pétroliers.                               ┃
-┗━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DÉSIGNATION    ┃ DÉLAI DE PRISE EN CHARGE  ┃ LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies          ┃
+┃ DES MALADIES   ┃                           ┃                                                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Epithélioma    ┃ 30 ans (sous réserve      ┃ 1. Travaux d'usinage par enlèvement ou déformation de matière ou travaux de  ┃
+┃ primitif de la ┃ d'une durée d'exposition  ┃ traitement des métaux et alliages exposant habituellement au contact cutané  ┃
+┃ peau.          ┃ minimale de 10 ans)       ┃ avec des huiles minérales peu ou non raffinées, ou régénérées.               ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                ┃                           ┃ 2. Travaux exposant habituellement au contact cutané avec des extraits aro-  ┃
+┃                ┃                           ┃ matiques pétroliers utilisés notamment comme huiles d'extension, d'ensimage, ┃
+┃                ┃                           ┃ de démoulage, ou comme fluxant des bitumes.                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                ┃                           ┃ 3. Travaux exposant habituellement au contact cutané avec des résidus de     ┃
+┃                ┃                           ┃ craquage utilisés notamment comme liants ou fluidifiants et avec des huiles  ┃
+┃                ┃                           ┃ moteur usagées.                                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                ┃                           ┃ 4. Travaux de ramonage et de nettoyage de chaudières et de cheminées expo-   ┃
+┃                ┃                           ┃ sant habituellement au contact cutané avec des suies de combustion de pro-   ┃
+┃                ┃                           ┃ duits pétroliers.                                                            ┃
+┗━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°85-1353 1985-12-17
-
-_Créé par_:
-
-  - Décret n°89-667 1989-09-13 art. 9 JORF 17 septembre 1989
-
-**Liens**:
-
-  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+  - Décret n°2009-56 du 15 janvier 2009 - art. 1
