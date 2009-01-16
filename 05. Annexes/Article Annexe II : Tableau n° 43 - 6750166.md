@@ -10,7 +10,7 @@ AFFECTIONS PROVOQUEES PAR L'ALDEHYDE FORMIQUE ET SES POLYMERES**.
 ┃                                │ prise en  │ dies                                                                         ┃
 ┃                                │ charge    │                                                                              ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Ulcérations cutanées.          │ 7 jours   │ Préparation, emploi et manipulation de l'aldéhyde formique, de ses solutions ┃
+┃ Dermatites irritatives         │ 7 jours   │ Préparation, emploi et manipulation de l'aldéhyde formique, de ses solutions ┃
 ┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┤ (formol) et de ses polymères, notamment : - fabrication de substances chi-   ┃
 ┃ Lésions eczématiformes récidi- │ 15 jours  │ miques, à partir de l'aldéhyde formique ; - fabrication de matières plas-    ┃
 ┃ vant en cas de nouvelle expo-  │           │ tiques à base de formol ; - travaux de collage exécutés avec des matières    ┃
@@ -32,14 +32,6 @@ AFFECTIONS PROVOQUEES PAR L'ALDEHYDE FORMIQUE ET SES POLYMERES**.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°85-1353 1985-12-17
-
 _Modifié par_:
 
-  - Décret n°2003-110 du 11 février 2003 - art. 2 () JORF 13 février 2003
-
-**Liens**:
-
-  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+  - Décret n°2009-56 du 15 janvier 2009 - art. 1
