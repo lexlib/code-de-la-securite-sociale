@@ -5,50 +5,53 @@
 **
 
 <pre>
-┏━━━━━━━━━━━━━━━━━━┯━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DÉSIGNATION DES  │ DÉLAI   │ LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES de provoquer les maladies               ┃
-┃ maladies         │ DE      │                                                                                              ┃
-┃                  │ prise   │                                                                                              ┃
-┃                  │ en      │                                                                                              ┃
-┃                  │ charge  │                                                                                              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ Affections héma- │ 3 ans   │ Opérations de production, transport et utilisation du benzène et autres produits renfermant  ┃
-┃ tologiques ac-   │         │ du benzène, notamment : - production, extraction, rectification du benzène et des produits   ┃
-┃ quises, isolées  │         │ en renfermant ; - emploi du benzène et des produits en renfermant pour la production de      ┃
-┃ ou associées, de │         │ leurs dérivés, notamment en organosynthèse ; - préparation des carburants renfermant du ben- ┃
-┃ type hypopla-    │         │ zène, transvasement, manipulation de ces carburants, travaux en citerne ; - emplois divers   ┃
-┃ sique, aplasique │         │ du benzène comme dissolvant des résines naturelles ou synthétiques ; - production et emploi  ┃
-┃ ou dysplasique : │         │ de vernis, peintures, émaux, mastics, encres, colles, produits d'entretien renfermant du     ┃
-┃ - anémie ; -     │         │ benzène ; - fabrication de simili-cuir ; - production, manipulation et emploi des dissolu-   ┃
-┃ leuconeutropé-   │         │ tions de caoutchouc naturel ou synthétique, ou des solvants d'avivage contenant du benzène ; ┃
-┃ nie ; - thrombo- │         │ - autres emplois du benzène ou des produits en renfermant comme agent d'extraction, d'élu-   ┃
-┃ pénie.           │         │ tion, d'imprégnation, d'agglomération ou de nettoyage et comme décapant, dissolvant ou di-   ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┤ luant ; - opérations de séchage de tous les produits, articles, préparations, substances où  ┃
-┃ Hypercytoses     │ 3 ans   │ le benzène (ou les produits en renfermant) est intervenu comme agent d'extraction, d'élu-    ┃
-┃ d'origine myélo- │         │ tion, de séparation, d'imprégnation, d'agglomération, de nettoyage, de concentration, et     ┃
-┃ dysplastique.    │         │ comme décapant, dissolvant, diluant ; - emploi du benzène comme déshydratant des alcools et  ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┤ autres substances liquides ou solides ; - emploi du benzène comme dénaturant ou réactif de   ┃
-┃ Syndrome myélo-  │ 15 ans  │ laboratoire.                                                                                 ┃
-┃ prolifératif.    │         │                                                                                              ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┤                                                                                              ┃
-┃ Leucémies (sous  │ 15 ans  │                                                                                              ┃
-┃ réserve d'une    │         │                                                                                              ┃
-┃ durée d'exposi-  │         │                                                                                              ┃
-┃ tion d'un an).   │         │                                                                                              ┃
-┗━━━━━━━━━━━━━━━━━━┷━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DÉSIGNATION DES MALADIES              ┃ DÉLAI DE PRISE EN     ┃ LISTE INDICATIVE DES TRAVAUX susceptibles de provoquer    ┃
+┃                                       ┃ CHARGE                ┃ ces maladies                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Hypoplasies et aplasies médullaires   ┃ 3 ans (sous réserve   ┃ Opérations de production, transport et utilisation du     ┃
+┃ isolées ou associées (anémie ; leuco- ┃ d'une durée d'exposi- ┃ benzène et autres produits renfermant du benzène, notam-  ┃
+┃ neutropénie ; thrombopénie) acquises  ┃ tion de 6 mois) 3 ans ┃ ment : - production, extraction, rectification du benzène ┃
+┃ primitives non réversibles. Syndromes ┃ 20 ans (sous réserve  ┃ et des produits en renfermant ; - emploi du benzène et    ┃
+┃ myélodysplasiques acquis et non médi- ┃ d'une durée d'exposi- ┃ des produits en renfermant pour la production de leurs    ┃
+┃ camenteux. Leucémies aiguës myélo-    ┃ tion de 6 mois) 20    ┃ dérivés, notamment en organosynthèse ; - préparation des  ┃
+┃ blastique et lymphoblastique à l'ex-  ┃ ans (sous réserve     ┃ carburants renfermant du benzène, transvasement, manipu-  ┃
+┃ clusion des leucémies aiguës avec des ┃ d'une durée d'exposi- ┃ lation de ces carburants, travaux en citerne ; - emplois  ┃
+┃ antécédents d'hémopathies. Syndromes  ┃ tion de 6 mois)       ┃ divers du benzène comme dissolvant des résines naturelles ┃
+┃ myéloprolifératifs.                   ┃                       ┃ ou synthétiques ;                                         ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                       ┃                       ┃ - production et emploi de vernis, peintures, émaux, mas-  ┃
+┃                                       ┃                       ┃ tics, encre, colles, produits d'entretien renfermant du   ┃
+┃                                       ┃                       ┃ benzène ; - fabrication de simili-cuir ; - production,    ┃
+┃                                       ┃                       ┃ manipulation et emploi des dissolutions de caoutchouc na- ┃
+┃                                       ┃                       ┃ turel ou synthétique, ou des solvants d'avivage contenant ┃
+┃                                       ┃                       ┃ du benzène ;                                              ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                       ┃                       ┃ - autres emplois du benzène ou des produits en renfermant ┃
+┃                                       ┃                       ┃ comme agent d'extraction, d'élution, d'imprégnation,      ┃
+┃                                       ┃                       ┃ d'agglomération ou de nettoyage et comme décapant, dis-   ┃
+┃                                       ┃                       ┃ solvant ou diluant ; - opérations de séchage de tous les  ┃
+┃                                       ┃                       ┃ produits, articles, préparations, substances où le ben-   ┃
+┃                                       ┃                       ┃ zène (ou les produits en renfermant) est intervenu comme  ┃
+┃                                       ┃                       ┃ agent d'extraction, d'élution, de séparation, d'imprégna- ┃
+┃                                       ┃                       ┃ tion, d'agglomération, de nettoyage, de concentration, et ┃
+┃                                       ┃                       ┃ comme décapant, dissolvant ou diluant ;                   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                       ┃                       ┃ - emploi du benzène comme déshydratant des alcools et     ┃
+┃                                       ┃                       ┃ autres substances liquides ou solides ; - emploi du ben-  ┃
+┃                                       ┃                       ┃ zène comme dénaturant ou réactif de laboratoire ; - poste ┃
+┃                                       ┃                       ┃ de nettoyage, curage, pompage des boues de fosses de re-  ┃
+┃                                       ┃                       ┃ levage dans le traitement des eaux usées de raffinerie.   ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┸┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Nota. - Pour le détail des syndromes myélodysplasiques et myéloprolifératifs, il convient de se référer à la clas-        ┃
+┃ sification en vigueur des tumeurs des tissus hématopoïétiques et lymphoïdes de l'Organisation mondiale de la santé        ┃
+┃ (OMS).                                                                                                                    ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°85-1353 1985-12-17
-
 _Modifié par_:
 
-  - Décret n°87-582 du 22 juillet 1987 - art. 1 () JORF 28 juillet 1987 rectificatif JORF 12 décembre 1987
-
-**Liens**:
-
-  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+  - Décret n°2009-56 du 15 janvier 2009 - art. 1

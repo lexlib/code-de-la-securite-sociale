@@ -1,49 +1,90 @@
 # Article Annexe II : Tableau n° 16 bis
 
-**
-
-AFFECTIONS CANCEREUSES PROVOQUEES PAR LES GOUDRONS DE HOUILLE, LES HUILES DE HOUILLE (COMPRENANT LES FRACTIONS DE
-DISTILLATION DITES PHENOLIQUES, NAPHTALENIQUES, ACENAPHTENIQUES, ANTHRACENIQUES ET CHRYSENIQUES), LES BRAIS DE HOUILLE ET LES
-SUIES DE COMBUSTION DU CHARBON**
+**Affections cancéreuses provoquées par les goudrons de houille, les huiles de houille,les brais de houille et les suies de
+combustion du charbon**
 
 <pre>
-┏━━━━━━━━━━━━━┯━━━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ DÉSIGNATION │ DÉLAI DE    │ LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies                ┃
-┃ DES MALA-   │ prise en    │                                                                                               ┃
-┃ DIES        │ charge      │                                                                                               ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
-┃ - A - Epi-  │ 20 ans      │ Travaux comportant la manipulation et l'emploi des goudrons, huiles et brais de houille. Tra- ┃
-┃ théliomas   │             │ vaux de ramonage et d'entretien de chaudières et de cheminées exposant aux suies de combus-   ┃
-┃ primitifs   │             │ tion du charbon. Travaux du personnel de cokerie directement affecté à la marche et à l'en-   ┃
-┃ de la peau. │             │ tretien des fours. Travaux exposant habituellement à l'inhalation ou à la manipulation des    ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┤ produits précités : - dans les usines à gaz ; - lors de la fabrication de l'aluminium par     ┃
-┃ - B - Can-  │ 30 ans      │ électrolyse selon le procédé à anode continue (procédé Söderberg). Travaux de coulée en fon-  ┃
-┃ cer bron-   │ (sous ré-   │ derie de fonte ou d'acier mettant en oeuvre des sables au noir incorporant des brais ou des   ┃
-┃ cho-pulmo-  │ serve d'une │ noirs minéraux. Travaux de ramonage. Travaux comportant l'emploi et la manipulation des pro-  ┃
-┃ naire pri-  │ durée d'ex- │ duits précités lors de la fabrication de l'aluminium par électrolyse selon le procédé à anode ┃
-┃ mitif.      │ position de │ continue (procédé Söderberg).                                                                 ┃
-┃             │ 10 ans)     │                                                                                               ┃
-┠┈┈┈┈┈┈┈┈┈┈┈┈┈┼┈┈┈┈┈┈┈┈┈┈┈┈┈┤                                                                                               ┃
-┃ - C - Tu-   │ 30 ans      │                                                                                               ┃
-┃ meurs bé-   │ (sous ré-   │                                                                                               ┃
-┃ nignes ou   │ serve d'une │                                                                                               ┃
-┃ malignes de │ durée d'ex- │                                                                                               ┃
-┃ la vessie.  │ position de │                                                                                               ┃
-┃             │ 10 ans)     │                                                                                               ┃
-┗━━━━━━━━━━━━━┷━━━━━━━━━━━━━┷━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ DÉSIGNATION DES MALADIES        ┃ DÉLAI DE PRISE  ┃ LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies   ┃
+┃                                 ┃ EN CHARGE       ┃                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ A                               ┃                 ┃ A                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Epithélioma primitif de la      ┃ 20 ans (sous    ┃ 1. Travaux comportant la manipulation et l'emploi de goudrons de      ┃
+┃ peau.                           ┃ réserve d'une   ┃ houille, huiles et brais de houille, exposant habituellement au       ┃
+┃                                 ┃ durée d'exposi- ┃ contact cutané avec les produits précités.                            ┃
+┃                                 ┃ tion de 10 ans) ┃                                                                       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 2. Travaux de ramonage et d'entretien de chaudières et foyers à char- ┃
+┃                                 ┃                 ┃ bon et de leurs cheminées ou conduits d'évacuation, exposant habi-    ┃
+┃                                 ┃                 ┃ tuellement au contact cutané avec les suies de combustion du charbon. ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ B                               ┃                 ┃ B                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Cancer bronchopulmonaire primi- ┃ 30 ans (sous    ┃ 1. Travaux en cokerie de personnels directement affectés à la marche  ┃
+┃ tif.                            ┃ réserve d'une   ┃ ou à l'entretien des fours ou à la récupération et au traitement des  ┃
+┃                                 ┃ durée d'exposi- ┃ goudrons, exposant habituellement à l'inhalation des émissions des    ┃
+┃                                 ┃ tion de 10 ans) ┃ produits précités.                                                    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 2. Travaux ayant exposé habituellement à l'inhalation des émissions   ┃
+┃                                 ┃                 ┃ des produits précités dans les unités de production de gaz de ville . ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 3. Travaux de fabrication de l'aluminium dans les ateliers d'électro- ┃
+┃                                 ┃                 ┃ lyse selon le procédé à anode continue (procédé Söderberg), exposant  ┃
+┃                                 ┃                 ┃ habituellement à l'inhalation des émissions des produits précités.    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 4. Travaux de pose de joints à base de brai de houille (pâte chaude)  ┃
+┃                                 ┃                 ┃ pour la confection ou la réfection de cathodes (brasquage), exposant  ┃
+┃                                 ┃                 ┃ habituellement à l'inhalation des émissions des produits précités.    ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 5. Travaux de mélangeage, de malaxage et de mise en forme lors de la  ┃
+┃                                 ┃                 ┃ fabrication d'électrodes destinées à la métallurgie, exposant habi-   ┃
+┃                                 ┃                 ┃ tuellement à l'inhalation des émissions des produits précités.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 6. Travaux de chargement de pâte en boulets à base de brai ou de sou- ┃
+┃                                 ┃                 ┃ dage de viroles dans le procédé à anode continue en électrométallur-  ┃
+┃                                 ┃                 ┃ gie de ferroalliages, exposant habituellement à l'inhalation des      ┃
+┃                                 ┃                 ┃ émissions des produits précités.                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 7. Travaux de fabrication par pressage des agglomérés de houille      ┃
+┃                                 ┃                 ┃ (boulets ou briquettes), exposant habituellement à l'inhalation des   ┃
+┃                                 ┃                 ┃ émissions des produits précités.                                      ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 8. Travaux de coulée et de décochage en fonderie de fonte ou d'acier  ┃
+┃                                 ┃                 ┃ utilisant des sables au noir incorporant des brais, exposant habi-    ┃
+┃                                 ┃                 ┃ tuellement à l'inhalation des émissions des produits précités.        ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 9. Travaux de pose de masse à boucher au goudron, et nettoyage et ré- ┃
+┃                                 ┃                 ┃ fection des rigoles de coulée des hauts-fourneaux, exposant habituel- ┃
+┃                                 ┃                 ┃ lement à l'inhalation des émissions des produits précités.            ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 10. Travaux de ramonage et d'entretien de chaudières et foyers à      ┃
+┃                                 ┃                 ┃ charbon et de leurs cheminées ou conduits d'évacuation, exposant ha-  ┃
+┃                                 ┃                 ┃ bituellement à l'inhalation des suies de combustion du charbon.       ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ C                               ┃                 ┃ C                                                                     ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃ Tumeur primitive de l'épithé-   ┃ 30 ans (sous    ┃ 1. Travaux en cokerie de personnels directement affectés à la marche  ┃
+┃ lium urinaire (vessie, voies    ┃ réserve d'une   ┃ ou à l'entretien des fours exposant habituellement aux produits pré-  ┃
+┃ excrétrices supérieures)        ┃ durée d'exposi- ┃ cités. 2. Travaux de fabrication de l'aluminium dans les ateliers     ┃
+┃ confirmée par examen histopa-   ┃ tion de10 ans)  ┃ d'électrolyse selon le procédé à anode continue (procédé Söderberg),  ┃
+┃ thologique ou cytopathologique. ┃                 ┃ impliquant l'emploi et la manipulation habituels des produits préci-  ┃
+┃                                 ┃                 ┃ tés.                                                                  ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 3. Travaux de ramonage et d'entretien de chaudières et foyers à char- ┃
+┃                                 ┃                 ┃ bon et de leurs cheminées ou conduits d'évacuation ou à la récupéra-  ┃
+┃                                 ┃                 ┃ tion et au traitement des goudrons, exposant habituellement aux suies ┃
+┃                                 ┃                 ┃ de combustion du charbon.                                             ┃
+┠┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈╂┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┨
+┃                                 ┃                 ┃ 4. Travaux au poste de vannier avant 1985 comportant l'exposition ha- ┃
+┃                                 ┃                 ┃ bituelle à des bitumes goudrons lors de l'application de revêtements  ┃
+┃                                 ┃                 ┃ routiers.                                                             ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━┻━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 </pre>
 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°85-1353 1985-12-17
-
 _Modifié par_:
 
-  - Décret n°95-1196 du 6 novembre 1995 - art. 1 () JORF 10 novembre 1995
-
-**Liens**:
-
-  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+  - Décret n°2009-56 du 15 janvier 2009 - art. 1
