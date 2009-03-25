@@ -1529,7 +1529,7 @@ B3j
 </td>
       <td valign="top" width="95">
 
-372 et 375.
+372, 375 et 379.
 
 </td>
       <td valign="top" width="170">
@@ -1814,6 +1814,7 @@ Y compris, notamment, valeur des OPCVM dont l'institution ou l'union est déposi
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Modifié par_:
 
-  - Arrêté 1998-03-27 annexe
+  - Arrêté du 11 mars 2009 - art. 3 (V)
+  - Arrêté du 11 mars 2009 - art. 3
