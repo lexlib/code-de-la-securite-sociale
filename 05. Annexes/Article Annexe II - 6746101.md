@@ -1,6 +1,6 @@
 # Article Annexe II
 
-<table cellspacing="0" cellpadding="0" border="1" width="605">
+<table cellspacing="0" border="1" width="605" cellpadding="0">
   <tbody>
     <tr>
       <td width="113">
@@ -30,7 +30,7 @@ Bastia
 Ajaccio
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Corse-du-Sud, Haute-Corse, sauf pour le régime agricole.
 
@@ -54,7 +54,7 @@ Aisne, Oise, Somme.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Besançon
 
@@ -71,12 +71,12 @@ Doubs, Jura, Haute-Saône, Territoire de Belfort.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Bordeaux
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Bordeaux
 
@@ -88,7 +88,7 @@ Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Caen
 
@@ -105,12 +105,12 @@ Calvados, Manche, Orne.
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Reims
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Châlons-en-Champagne
 
@@ -127,7 +127,7 @@ Ardennes, Aube, Marne, Haute-Marne.
 Riom
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Clermont-Ferrand
 
@@ -149,7 +149,7 @@ Dijon
 Dijon
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Côte-d'Or, Nièvre, Saône-et-Loire, Yonne.
 
@@ -161,12 +161,12 @@ Côte-d'Or, Nièvre, Saône-et-Loire, Yonne.
 Douai
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Lille
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Nord, Pas-de-Calais.
 
@@ -178,12 +178,12 @@ Nord, Pas-de-Calais.
 Limoges
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Limoges
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Corrèze, Creuse, Haute-Vienne.
 
@@ -207,12 +207,12 @@ Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie.
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Aix-en-Provence
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Marseille
 
@@ -242,20 +242,19 @@ Aude, Gard, Hérault, Lozère, Pyrénées-Orientales.
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Nancy
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Nancy
 
 </td>
       <td width="378" valign="top">
 
-Meurthe-et-Moselle, Meuse, Vosges et Moselle, sauf pour les décisions d'organismes sous le contrôle de la DRASS et du
-SRITEPSA d'Alsace.
+Meurthe-et-Moselle, Meuse, Vosges et Moselle, sauf pour les décisions d'organismes sous le contrôle du SRITEPSA d'Alsace.
 
 </td>
     </tr>
@@ -270,7 +269,7 @@ Rennes
 Nantes
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée.
 
@@ -282,29 +281,29 @@ Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée.
 Orléans
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Orléans
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Paris
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Paris
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Essonne, Hauts-de-Seine, Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Paris, Yvelines.
 
@@ -316,12 +315,12 @@ Essonne, Hauts-de-Seine, Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne, Val-d'
 Poitiers
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Poitiers
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Charente, Charente-Maritime, Deux-Sèvres, Vienne.
 
@@ -333,7 +332,7 @@ Charente, Charente-Maritime, Deux-Sèvres, Vienne.
 Rennes
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Rennes
 
@@ -345,7 +344,7 @@ Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan.
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Rouen
 
@@ -372,19 +371,19 @@ Colmar
 Strasbourg
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
-Bas-Rhin, Haut-Rhin et Moselle, pour les décisions des organismes sous le contrôle de la DRASS et du SRITEPSA d'Alsace.
+Bas-Rhin, Haut-Rhin et Moselle, pour les décisions d'organismes sous le contrôle du SRITEPSA d'Alsace.
 
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Toulouse
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Toulouse
 
@@ -401,19 +400,19 @@ Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Gar
 Fort-de-France
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Cayenne
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Guyanne.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Fort-de-France
 
@@ -435,12 +434,12 @@ Martinique.
 Basse-Terre
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Pointe-à-Pitre
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Guadeloupe.
 
@@ -468,10 +467,6 @@ Réunion.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°85-1353 1985-12-17
-
-_Créé par_:
-
-  - Décret n°2003-614 2003-07-03 annexe 3 JORF 5 juillet 2003
+  - Décret n°2009-1081 du 31 août 2009 - art.
