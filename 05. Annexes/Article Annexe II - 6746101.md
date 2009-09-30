@@ -1,6 +1,6 @@
 # Article Annexe II
 
-<table cellpadding="0" cellspacing="0" border="1" width="605">
+<table border="1" width="605" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td width="113">
@@ -25,36 +25,36 @@ Département du ressort
 Bastia
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Ajaccio
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Corse-du-Sud, Haute-Corse, sauf pour le régime agricole.
 
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Amiens
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Amiens
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Aisne, Oise, Somme.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Besançon
 
@@ -64,14 +64,14 @@ Besançon
 Besançon
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Doubs, Jura, Haute-Saône, Territoire de Belfort.
 
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Bordeaux
 
@@ -81,58 +81,58 @@ Bordeaux
 Bordeaux
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
-
-Caen
-
-</td>
       <td width="113" valign="top">
 
 Caen
 
 </td>
-      <td valign="top" width="378">
+      <td valign="top" width="113">
+
+Caen
+
+</td>
+      <td width="378" valign="top">
 
 Calvados, Manche, Orne.
 
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Reims
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Châlons-en-Champagne
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Ardennes, Aube, Marne, Haute-Marne.
 
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Riom
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Clermont-Ferrand
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Allier, Cantal, Haute-Loire, Puy-de-Dôme.
 
@@ -144,24 +144,24 @@ Allier, Cantal, Haute-Loire, Puy-de-Dôme.
 Dijon
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Dijon
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Côte-d'Or, Nièvre, Saône-et-Loire, Yonne.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Douai
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Lille
 
@@ -173,12 +173,12 @@ Nord, Pas-de-Calais.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Limoges
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Limoges
 
@@ -190,7 +190,7 @@ Corrèze, Creuse, Haute-Vienne.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Lyon
 
@@ -200,14 +200,14 @@ Lyon
 Lyon
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Ain, Ardèche, Drôme, Isère, Loire, Rhône, Savoie, Haute-Savoie.
 
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Aix-en-Provence
 
@@ -235,32 +235,31 @@ Montpellier
 Montpellier
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Aude, Gard, Hérault, Lozère, Pyrénées-Orientales.
 
 </td>
     </tr>
     <tr>
+      <td valign="top" width="113">
+
+Nancy
+
+</td>
       <td width="113" valign="top">
 
 Nancy
 
 </td>
-      <td valign="top" width="113">
+      <td width="378" valign="top">
 
-Nancy
-
-</td>
-      <td valign="top" width="378">
-
-Meurthe-et-Moselle, Meuse, Vosges et Moselle, sauf pour les décisions d'organismes sous le contrôle de la DRASS et du
-SRITEPSA d'Alsace.
+Meurthe-et-Moselle, Meuse, Vosges et Moselle, sauf pour les décisions d'organismes sous le contrôle du SRITEPSA d'Alsace.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Rennes
 
@@ -270,7 +269,7 @@ Rennes
 Nantes
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Loire-Atlantique, Maine-et-Loire, Mayenne, Sarthe, Vendée.
 
@@ -287,31 +286,31 @@ Orléans
 Orléans
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Cher, Eure-et-Loir, Indre, Indre-et-Loire, Loir-et-Cher, Loiret.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Paris
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Paris
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Essonne, Hauts-de-Seine, Seine-et-Marne, Seine-Saint-Denis, Val-de-Marne, Val-d'Oise, Paris, Yvelines.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Poitiers
 
@@ -338,14 +337,14 @@ Rennes
 Rennes
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan.
 
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Rouen
 
@@ -372,9 +371,9 @@ Colmar
 Strasbourg
 
 </td>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
-Bas-Rhin, Haut-Rhin et Moselle, pour les décisions des organismes sous le contrôle de la DRASS et du SRITEPSA d'Alsace.
+Bas-Rhin, Haut-Rhin et Moselle, pour les décisions d'organismes sous le contrôle du SRITEPSA d'Alsace.
 
 </td>
     </tr>
@@ -384,7 +383,7 @@ Bas-Rhin, Haut-Rhin et Moselle, pour les décisions des organismes sous le contr
 Toulouse
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Toulouse
 
@@ -396,29 +395,29 @@ Ariège, Aveyron, Haute-Garonne, Gers, Lot, Hautes-Pyrénées, Tarn, Tarn-et-Gar
 </td>
     </tr>
     <tr>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Fort-de-France
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Cayenne
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Guyanne.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Fort-de-France
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Fort-de-France
 
@@ -435,29 +434,29 @@ Martinique.
 Basse-Terre
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Pointe-à-Pitre
 
 </td>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Guadeloupe.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="113">
-
-Saint-Denis-de-la-Réunion
-
-</td>
       <td width="113" valign="top">
 
 Saint-Denis-de-la-Réunion
 
 </td>
-      <td valign="top" width="378">
+      <td valign="top" width="113">
+
+Saint-Denis-de-la-Réunion
+
+</td>
+      <td width="378" valign="top">
 
 Réunion.
 
@@ -468,10 +467,6 @@ Réunion.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°85-1353 1985-12-17
-
-_Créé par_:
-
-  - Décret n°2003-614 2003-07-03 annexe 3 JORF 5 juillet 2003
+  - Décret n°2009-1081 du 31 août 2009 - art.
