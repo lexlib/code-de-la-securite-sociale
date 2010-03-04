@@ -584,8 +584,8 @@ Engagements donnés de plus de 3 mois
   </tbody>
 </table>
 
-**Liens relatifs à cet article**
+**Nota:**
 
-**Liens**:
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
-  - TXT_SOURCE: Code de la sécurité sociale. - art. L951-1 (M)
