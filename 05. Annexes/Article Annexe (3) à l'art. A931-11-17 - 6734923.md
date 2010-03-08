@@ -9,64 +9,33 @@ MOUVEMENTS DES BULLETINS D'ADHESION AUX REGLEMENTS OU DES CONTRATS, DES CAPITAUX
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a
 de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le
 modèle fixé ci-après, un état retraçant les mouvements des bulletins d'adhésion aux règlements, des contrats, des capitaux et
-des rentes au cours de l'exercice inventorié.
+des rentes au cours de l'exercice inventorié. 
 
 <table align="center" border="1" cellpadding="0" cellspacing="0" width="605">
   <tbody>
     <tr>
       <td colspan="2" width="454">
 
-MOUVEMENTS
+MOUVEMENTS 
 
 </td>
       <td width="151">
 
-CATÉGORIE
+CATÉGORIE 
 
-ou sous-catégorie
+ou sous-catégorie 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="302">
 
-En cours à l'ouverture de l'exercice
+En cours à l'ouverture de l'exercice 
 
 </td>
       <td valign="top" width="151">
 
-Nombre (1)
-
-</td>
-      <td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-      </td><td valign="top" width="151">
-
-Montant (2)
-
-</td>
-      <td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-
-Entrées :
-
-</td>
-      <td valign="top" width="151">
-      </td><td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-
-Souscriptions
-
-</td>
-      <td valign="top" width="151">
-
-Nombre
+Nombre (1) 
 
 </td>
       <td valign="top" width="151">
@@ -75,7 +44,7 @@ Nombre
       <td valign="top" width="302">
       </td><td valign="top" width="151">
 
-Montant
+Montant (2) 
 
 </td>
       <td valign="top" width="151">
@@ -83,12 +52,21 @@ Montant
     <tr>
       <td valign="top" width="302">
 
-Remplacements ou transformations
+Entrées : 
+
+</td>
+      <td valign="top" width="151">
+      </td><td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+
+Souscriptions 
 
 </td>
       <td valign="top" width="151">
 
-Nombre
+Nombre 
 
 </td>
       <td valign="top" width="151">
@@ -97,7 +75,7 @@ Nombre
       <td valign="top" width="302">
       </td><td valign="top" width="151">
 
-Montant
+Montant 
 
 </td>
       <td valign="top" width="151">
@@ -105,12 +83,12 @@ Montant
     <tr>
       <td valign="top" width="302">
 
-Revalorisations (3)
+Remplacements ou transformations 
 
 </td>
       <td valign="top" width="151">
 
-Nombre (4)
+Nombre 
 
 </td>
       <td valign="top" width="151">
@@ -119,7 +97,29 @@ Nombre (4)
       <td valign="top" width="302">
       </td><td valign="top" width="151">
 
-Montant
+Montant 
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+
+Revalorisations (3) 
+
+</td>
+      <td valign="top" width="151">
+
+Nombre (4) 
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+      </td><td valign="top" width="151">
+
+Montant 
 
 </td>
       <td valign="top" width="151">
@@ -127,12 +127,12 @@ Montant
     <tr>
       <td rowspan="2" valign="top" width="302">
 
-Total des entrées
+Total des entrées 
 
 </td>
       <td valign="top" width="151">
 
-Nombre
+Nombre 
 
 </td>
       <td valign="top" width="151">
@@ -140,7 +140,7 @@ Nombre
     <tr>
       <td valign="top" width="151">
 
-Montant
+Montant 
 
 </td>
       <td valign="top" width="151">
@@ -148,7 +148,7 @@ Montant
     <tr>
       <td valign="top" width="302">
 
-Sorties :
+Sorties : 
 
 </td>
       <td valign="top" width="151">
@@ -157,34 +157,12 @@ Sorties :
     <tr>
       <td valign="top" width="302">
 
-Sans effet
+Sans effet 
 
 </td>
       <td valign="top" width="151">
 
-Nombre
-
-</td>
-      <td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-      </td><td valign="top" width="151">
-
-Montant
-
-</td>
-      <td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-
-Remplacements ou transformations
-
-</td>
-      <td valign="top" width="151">
-
-Nombre
+Nombre 
 
 </td>
       <td valign="top" width="151">
@@ -193,7 +171,7 @@ Nombre
       <td valign="top" width="302">
       </td><td valign="top" width="151">
 
-Montant
+Montant 
 
 </td>
       <td valign="top" width="151">
@@ -201,34 +179,12 @@ Montant
     <tr>
       <td valign="top" width="302">
 
-Echéances
+Remplacements ou transformations 
 
 </td>
       <td valign="top" width="151">
 
-Nombre
-
-</td>
-      <td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-      </td><td valign="top" width="151">
-
-Montant
-
-</td>
-      <td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-
-Sinistres (5)
-
-</td>
-      <td valign="top" width="151">
-
-Nombre
+Nombre 
 
 </td>
       <td valign="top" width="151">
@@ -237,7 +193,7 @@ Nombre
       <td valign="top" width="302">
       </td><td valign="top" width="151">
 
-Montant
+Montant 
 
 </td>
       <td valign="top" width="151">
@@ -245,34 +201,12 @@ Montant
     <tr>
       <td valign="top" width="302">
 
-Extinctions
+Echéances 
 
 </td>
       <td valign="top" width="151">
 
-Nombre
-
-</td>
-      <td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-      </td><td valign="top" width="151">
-
-Montant
-
-</td>
-      <td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-
-Rachats
-
-</td>
-      <td valign="top" width="151">
-
-Nombre
+Nombre 
 
 </td>
       <td valign="top" width="151">
@@ -281,7 +215,7 @@ Nombre
       <td valign="top" width="302">
       </td><td valign="top" width="151">
 
-Montant
+Montant 
 
 </td>
       <td valign="top" width="151">
@@ -289,34 +223,12 @@ Montant
     <tr>
       <td valign="top" width="302">
 
-Réductions
+Sinistres (5) 
 
 </td>
       <td valign="top" width="151">
 
-Nombre (4)
-
-</td>
-      <td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-      </td><td valign="top" width="151">
-
-Montant
-
-</td>
-      <td valign="top" width="151">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
-
-Résiliations
-
-</td>
-      <td valign="top" width="151">
-
-Nombre
+Nombre 
 
 </td>
       <td valign="top" width="151">
@@ -325,7 +237,95 @@ Nombre
       <td valign="top" width="302">
       </td><td valign="top" width="151">
 
-Montant
+Montant 
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+
+Extinctions 
+
+</td>
+      <td valign="top" width="151">
+
+Nombre 
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+      </td><td valign="top" width="151">
+
+Montant 
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+
+Rachats 
+
+</td>
+      <td valign="top" width="151">
+
+Nombre 
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+      </td><td valign="top" width="151">
+
+Montant 
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+
+Réductions 
+
+</td>
+      <td valign="top" width="151">
+
+Nombre (4) 
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+      </td><td valign="top" width="151">
+
+Montant 
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+
+Résiliations 
+
+</td>
+      <td valign="top" width="151">
+
+Nombre 
+
+</td>
+      <td valign="top" width="151">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+      </td><td valign="top" width="151">
+
+Montant 
 
 </td>
       <td valign="top" width="151">
@@ -333,12 +333,12 @@ Montant
     <tr>
       <td rowspan="2" valign="top" width="302">
 
-Total des sorties
+Total des sorties 
 
 </td>
       <td valign="top" width="151">
 
-Nombre
+Nombre 
 
 </td>
       <td valign="top" width="151">
@@ -346,7 +346,7 @@ Nombre
     <tr>
       <td valign="top" width="151">
 
-Montant
+Montant 
 
 </td>
       <td valign="top" width="151">
@@ -354,12 +354,12 @@ Montant
     <tr>
       <td valign="top" width="302">
 
-En cours à la clôture de l'exercice
+En cours à la clôture de l'exercice 
 
 </td>
       <td valign="top" width="151">
 
-Nombre
+Nombre 
 
 </td>
       <td valign="top" width="151">
@@ -368,7 +368,7 @@ Nombre
       <td valign="top" width="302">
       </td><td valign="top" width="151">
 
-Montant
+Montant 
 
 </td>
       <td valign="top" width="151">
@@ -376,92 +376,92 @@ Montant
     <tr>
       <td colspan="3" valign="top" width="605">
 
-(1) Nombre de bulletins d'adhésion aux règlements et de contrats.
+(1) Nombre de bulletins d'adhésion aux règlements et de contrats. 
 
-(2) Capitaux ou rentes garantis.
+(2) Capitaux ou rentes garantis. 
 
-(3) Revalorisations au cours de l'exercice : indexations, incorporations de participations aux excédents.
+(3) Revalorisations au cours de l'exercice : indexations, incorporations de participations aux excédents. 
 
-(4) Les nombres figurant sur cette ligne ne s'additionnent pas dans le total.
+(4) Les nombres figurant sur cette ligne ne s'additionnent pas dans le total. 
 
 (5) Pour les opérations relevant de la branche 24 (Capitalisation), cette rubrique enregistre les remboursements par tirage
-au sort.
+au sort. 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-Cet état comporte en colonnes les catégories et sous-catégories suivantes d'opérations directes en France :
+Cet état comporte en colonnes les catégories et sous-catégories suivantes d'opérations directes en France : 
 
-Opérations de capitaux en francs ou en devises
+Opérations de capitaux en francs ou en devises 
 
-Opérations de capitalisation à cotisation unique ou versements libres (catégorie 01).
+Opérations de capitalisation à cotisation unique ou versements libres (catégorie 01). 
 
-Opérations de capitalisation à cotisations périodiques (catégorie 02).
+Opérations de capitalisation à cotisations périodiques (catégorie 02). 
 
 Opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) : temporaires décès
-(catégorie 03).
+(catégorie 03). 
 
 Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisation unique
-ou versements libres (sous-catégorie 042).
+ou versements libres (sous-catégorie 042). 
 
 Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisations
-périodiques (sous-catégorie 052).
+périodiques (sous-catégorie 052). 
 
-Opérations collectives en cas de décès (catégorie 06).
+Opérations collectives en cas de décès (catégorie 06). 
 
-Autres opérations collectives en cas de vie (sous-catégorie 072).
+Autres opérations collectives en cas de vie (sous-catégorie 072). 
 
-Opérations en unités de compte
+Opérations en unités de compte 
 
-Opérations de capitalisation à cotisation unique ou versements libres (sous-catégorie 081).
+Opérations de capitalisation à cotisation unique ou versements libres (sous-catégorie 081). 
 
-Opérations de capitalisation à cotisations périodiques (sous-catégorie 091).
+Opérations de capitalisation à cotisations périodiques (sous-catégorie 091). 
 
 Opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) : temporaires décès (sous-
-catégories 082 et 092).
+catégories 082 et 092). 
 
 Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisation unique
-ou versements libres (sous-catégorie 084).
+ou versements libres (sous-catégorie 084). 
 
 Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisations
-périodiques (sous-catégorie 094).
+périodiques (sous-catégorie 094). 
 
-Opérations collectives en cas de décès (sous-catégories 085, 086, 095 et 096).
+Opérations collectives en cas de décès (sous-catégories 085, 086, 095 et 096). 
 
-Opérations collectives en cas de vie (sous-catégories 088 et 098).
+Opérations collectives en cas de vie (sous-catégories 088 et 098). 
 
-Opérations de rentes en francs ou en devises
+Opérations de rentes en francs ou en devises 
 
 Rentes individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) différées en cours de
-constitution (partie des sous-catégories 041 et 051) (1).
+constitution (partie des sous-catégories 041 et 051) (1). 
 
 Rentes individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) en service (partie des sous-
-catégories 041 et 051) (1).
+catégories 041 et 051) (1). 
 
-Rentes collectives en cas de vie différées en cours de constitution (partie de la sous-catégorie 072) (2).
+Rentes collectives en cas de vie différées en cours de constitution (partie de la sous-catégorie 072) (2). 
 
-Rentes collectives en cas de vie en service (partie de la sous-catégorie 072) (2).
+Rentes collectives en cas de vie en service (partie de la sous-catégorie 072) (2). 
 
-Opérations de rentes en unités de compte
+Opérations de rentes en unités de compte 
 
-Rentes différées en cours de constitution (partie des sous-catégories 083, 087, 093 et 097) (3).
+Rentes différées en cours de constitution (partie des sous-catégories 083, 087, 093 et 097) (3). 
 
-Rentes en service (partie des sous-catégories 083, 087, 093 et 097) (3).
+Rentes en service (partie des sous-catégories 083, 087, 093 et 097) (3). 
 
 Les opérations en unités de compte sont converties en francs à la contrevaleur de l'unité de compte à la date d'inventaire et
-regroupées toutes unités de compte confondues. L'institution ou l'union détient le détail de chaque catégorie ou sous-
-catégorie par unité de compte.
+regroupées toutes unités de compte confondues.L'institution ou l'union détient le détail de chaque catégorie ou sous-
+catégorie par unité de compte. 
 
 (1) L'addition des éléments relatifs aux rentes individuelles différées en cours de constitution et aux rentes individuelles
-en service est égale au total des éléments relatifs aux sous-catégories 041 et 051.
+en service est égale au total des éléments relatifs aux sous-catégories 041 et 051. 
 
 (2) L'addition des éléments relatifs aux rentes collectives différées en cours de constitution et aux rentes collectives en
-service est égale au total des éléments relatifs à la sous-catégorie 072.
+service est égale au total des éléments relatifs à la sous-catégorie 072. 
 
 (3) L'addition des éléments relatifs aux rentes différées en cours de constitution et aux rentes en service est égale au
-total des éléments relatifs aux sous-catégories 083, 087, 093 et 097.
+total des éléments relatifs aux sous-catégories 083, 087, 093 et 097. 
 
 ETAT C 21 
 
@@ -469,23 +469,23 @@ ETAT DETAILLE DES PROVISIONS TECHNIQUES.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a
 de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le
-modèle fixé ci-après, un état détaillé de leurs provisions techniques. 
+modèle fixé ci-après, un état détaillé de leurs provisions techniques.
 
 L'état est constitué de deux ensembles de lignes : 
 
-A. - Le premier ensemble de lignes est ordonné en quarante-trois rubriques correspondant aux catégories, sous-catégories ou
+A.-Le premier ensemble de lignes est ordonné en quarante-trois rubriques correspondant aux catégories, sous-catégories ou
 regroupements d'opérations définies à l'état C 4 : 
 
-I. - Opérations directes en France : catégories ou sous-catégories 01, 02, 031, 032, 041, 042, 051, 052, 061, 062, 071, 072,
+I.-Opérations directes en France : catégories ou sous-catégories 01, 02, 031, 032, 041, 042, 051, 052, 061, 062, 071, 072,
 081, 082, 083, 084, 085, 086, 087, 088, 091, 092, 093, 094, 095, 096, 097, 098, 10, 201, 202, 211, 212, 213 puis 214 ; 
 
-II. - Opérations en libre prestation de services par un établissement en France ; 
+II.-Opérations en libre prestation de services par un établissement en France ; 
 
-III. - Acceptations en réassurance par un établissement en France ; 
+III.-Acceptations en réassurance par un établissement en France ; 
 
-IV. - Opérations des succursales établies dans l'Union européenne (hors la France), détaillées par rubriques a, b puis c ; 
+IV.-Opérations des succursales établies dans l'Union européenne (hors la France), détaillées par rubriques a, b puis c ; 
 
-V. - Opérations des succursales établies hors de l'Union européenne, détaillées par rubriques a, b puis c. 
+V.-Opérations des succursales établies hors de l'Union européenne, détaillées par rubriques a, b puis c. 
 
 Ce premier ensemble comporte une ligne par règlement ou contrat type en cours. Chaque règlement ou contrat type est identifié
 par sa dénomination ; les différentes versions d'un contrat type proposé sous une même dénomination sont à considérer comme
@@ -494,43 +494,43 @@ francs ou en devises des opérations en unités de compte sont indiquées sur un
 contrat. 
 
 Sous réserve de respecter la décomposition par régime de participation aux excédents, les institutions et les unions peuvent
-regrouper au sein de chaque rubrique les règlements ou contrats types dont les provisions techniques représentent moins de
-0,5 % du total des provisions techniques afférentes aux opérations directes en France ; 
+regrouper au sein de chaque rubrique les règlements ou contrats types dont les provisions techniques représentent moins de 0,
+5 % du total des provisions techniques afférentes aux opérations directes en France ; 
 
-B. - Le deuxième ensemble de lignes retrace les provisions techniques communes à plusieurs règlements ou contrats types : 
+B.-Le deuxième ensemble de lignes retrace les provisions techniques communes à plusieurs règlements ou contrats types :
 
-- d'abord, celles des provisions pour participation aux excédents qui ne sont pas propres à un règlement ou contrat type ; 
+- d'abord, celles des provisions pour participation aux excédents qui ne sont pas propres à un règlement ou contrat type ;
 
 - ensuite, les autres provisions techniques, notamment provisions pour aléas financiers, provisions de gestion, provision
-pour risque d'exigibilité des engagements techniques. 
+pour risque d'exigibilité des engagements techniques.
 
-L'état est complété par un total général. 
+L'état est complété par un total général.
 
-L'état comporte les colonnes suivantes : 
+L'état comporte les colonnes suivantes :
 
-- dénomination du règlement ou du contrat type ; 
+- dénomination du règlement ou du contrat type ;
 
-- nombre de bulletins d'adhésion aux règlements et de contrats en cours à la clôture de l'exercice ; 
+- nombre de bulletins d'adhésion aux règlements et de contrats en cours à la clôture de l'exercice ;
 
-- capitaux ou rentes garantis ; 
+- capitaux ou rentes garantis ;
 
-- taux d'intérêt garanti ; 
+- taux d'intérêt garanti ;
 
-- cotisations émises dans l'exercice, nettes d'annulations ; 
+- cotisations émises dans l'exercice, nettes d'annulations ;
 
-- provisions mathématiques à la clôture de l'exercice ; 
+- provisions mathématiques à la clôture de l'exercice ;
 
-- provisions pour participation aux excédents à la clôture de l'exercice (1) ; 
+- provisions pour participation aux excédents à la clôture de l'exercice (1) ;
 
-- autres provisions techniques spécifiques au règlement ou au contrat à la clôture de l'exercice ; 
+- autres provisions techniques spécifiques au règlement ou au contrat à la clôture de l'exercice ;
 
-- capitaux ou rentes cédés ; 
+- capitaux ou rentes cédés ;
 
-- cotisations cédées ; 
+- cotisations cédées ;
 
-- provisions mathématiques cédées à la clôture de l'exercice ; 
+- provisions mathématiques cédées à la clôture de l'exercice ;
 
-- provisions pour participation aux excédents cédées à la clôture de l'exercice (1) ; 
+- provisions pour participation aux excédents cédées à la clôture de l'exercice (1) ;
 
 - autres provisions techniques spécifiques au règlement ou au contrat cédées à la clôture de l'exercice. 
 
@@ -544,70 +544,70 @@ ETAT C 30
 COTISATIONS, SINISTRES ET COMMISSIONS DES OPERATIONS NON-VIE DANS L'ESPACE ECONOMIQUE EUROPEEN. 
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b
-et/ou au c de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b
+et / ou au c de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b
 établissent, selon le modèle fixé ci-après, un état des cotisations, sinistres et commissions relatifs à leurs opérations
-Non-vie effectuées dans chacun des Etats de l'Espace économique européen hors la France et un état récapitulatif.
+Non-vie effectuées dans chacun des Etats de l'Espace économique européen hors la France et un état récapitulatif. 
 
 <table align="center" border="1" cellpadding="0" cellspacing="0" width="605">
   <tbody>
     <tr>
       <td>
 
-ÉTAT
+ÉTAT 
 
 </td>
       <td colspan="3">
 
-RÉGIME D'ÉTABLISSEMENT
+RÉGIME D'ÉTABLISSEMENT 
 
 </td>
       <td colspan="3">
 
-LIBRE PRESTATION DE SERVICES
+LIBRE PRESTATION DE SERVICES 
 
 </td>
     </tr>
     <tr>
       <td>
 
-Branches d'activité
+Branches d'activité 
 
 </td>
       <td>
 
-Cotisations
+Cotisations 
 
 </td>
       <td>
 
-Sinistres
+Sinistres 
 
 </td>
       <td>
 
-Commissions
+Commissions 
 
 </td>
       <td>
 
-Cotisations
+Cotisations 
 
 </td>
       <td>
 
-Sinistres
+Sinistres 
 
 </td>
       <td>
 
-Commissions
+Commissions 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-Accidents - maladie
+Accidents-maladie 
 
 </td>
       <td valign="top">
@@ -620,7 +620,7 @@ Accidents - maladie
     <tr>
       <td valign="top">
 
-Chômage
+Chômage 
 
 </td>
       <td valign="top">
@@ -633,7 +633,7 @@ Chômage
     <tr>
       <td valign="top">
 
-Total
+Total 
 
 </td>
       <td valign="top">
@@ -648,36 +648,36 @@ Total
 
 ETAT C 31 
 
-COTISATIONS DES OPERATIONS VIE DANS L'ESPACE ECONOMIQUE EUROPEEN (HORS LA FRANCE) . 
+COTISATIONS DES OPERATIONS VIE DANS L'ESPACE ECONOMIQUE EUROPEEN (HORS LA FRANCE). 
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a
 de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le
 modèle fixé ci-après, un état des cotisations relatives à leurs opérations Vie effectuées dans chacun des Etats de l'Espace
-économique européen hors la France et un état récapitulatif.
+économique européen hors la France et un état récapitulatif. 
 
 <table align="center" border="1" cellpadding="0" cellspacing="0" width="605">
   <tbody>
     <tr>
       <td width="329">
 
-ÉTAT
+ÉTAT 
 
 </td>
       <td width="144">
 
-RÉGIME D'ÉTABLISSEMENT
+RÉGIME D'ÉTABLISSEMENT 
 
 </td>
       <td width="132">
 
-LPS
+LPS 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="329">
 
-Branches d'activité (1) :
+Branches d'activité (1) : 
 
 </td>
       <td rowspan="8" valign="top" width="144">
@@ -686,56 +686,56 @@ Branches d'activité (1) :
     <tr>
       <td valign="top" width="329">
 
-I. - Assurance vie
+I.-Assurance vie 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="329">
 
-II. - Nuptialité-natalité
+II.-Nuptialité-natalité 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="329">
 
-III. - Opérations en unités de comptes
+III.-Opérations en unités de comptes 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="329">
 
-IV. - Opérations dites "Permanent Health Insurance"
+IV.-Opérations dites " Permanent Health Insurance " 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="329">
 
-VII. - Gestion de fonds collectifs
+VII.-Gestion de fonds collectifs 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="329">
 
-VIII. - Opérations collectives relevant de l'article L. 932-24
+VIII.-Opérations collectives relevant de l'article L. 932-24 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="329">
 
-IX. - Pensions de sécurité sociale
+IX.-Pensions de sécurité sociale 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="329">
 
-Total
+Total 
 
 </td>
       <td valign="top" width="144">
@@ -744,7 +744,7 @@ Total
     <tr>
       <td colspan="3" valign="top" width="605">
 
-(1) Pour la définition de ces branches, voir l'annexe à la directive 79/267/CEE du 5 mai 1979.
+(1) Pour la définition de ces branches, voir l'annexe à la directive 79 / 267 / CEE du 5 mai 1979. 
 
 </td>
     </tr>
@@ -756,62 +756,62 @@ Etats spécifiques relatifs aux opérations à l'étranger
 Lorsque les opérations dans un pays étranger, ou les opérations en libre prestation de services depuis la France dans
 l'ensemble de l'Union européenne, excèdent 5 % des opérations en France en termes de cotisations ou de provisions techniques,
 l'institution ou l'union complète son compte rendu annuel en y annexant un dossier spécifique à ce pays, ou aux opérations en
-libre prestation de services depuis la France dans l'ensemble de l'Union européenne, composé des éléments suivants : 
+libre prestation de services depuis la France dans l'ensemble de l'Union européenne, composé des éléments suivants :
 
-- les états de modèle C 1 (C 1 Vie-capitalisation, C 1 Non-vie, C 1 Dommages corporels) pertinents ; 
+- les états de modèle C 1 (C 1 Vie-capitalisation, C 1 Non-vie, C 1 Dommages corporels) pertinents ;
 
 - trois états de modèle C 10 : d'une part, un état pour l'ensemble des opérations directes et acceptées des catégories 20 à
 31, d'autre part, un état pour chacun des deux sous-ensembles d'opérations directes, dommages corporels (catégories 20 et 21)
-et chômage (catégorie 31) ; 
+et chômage (catégorie 31) ;
 
 - trois états de modèle C 11 : d'une part, un état pour l'ensemble des opérations directes et acceptées des catégories 20 à
 31, d'autre part, un état pour chacun des deux sous-ensembles d'opérations directes, dommages corporels (catégories 20 et 21)
-et chômage (catégorie 31) ; 
+et chômage (catégorie 31) ;
 
 - un état de modèle C 12 pour l'ensemble des opérations directes et acceptées des opérations pluriannuelles à cotisation
 unique ou non révisable des catégories 20 à 31 et des opérations assimilées en application du dernier alinéa de l'article A.
-931-11-17 ; 
+931-11-17 ;
 
 - un état de modèle C 20. 
 
 Les opérations assimilées à des opérations pluriannuelles à cotisation unique ou non révisable en application du dernier
 alinéa de l'article A. 931-11-17 sont exclues des états C 10 et C 11. 
 
-Les états modèles sont adaptés en tant que de besoin en remplaçant la mention "France" par l'indication du nom du pays, ou
-par la mention "LPS". 
+Les états modèles sont adaptés en tant que de besoin en remplaçant la mention " France " par l'indication du nom du pays, ou
+par la mention " LPS ". 
 
-Sous réserve de l'accord de l'Autorité de contrôle instituée par l'article L. 951-1, l'institution ou l'union, dont
-l'activité le justifie, peut regrouper sous une même rubrique plusieurs ensembles d'opérations. 
+Sous réserve de l'accord de              l'Autorité de contrôle prudentiel, l'institution ou l'union, dont l'activité le
+justifie, peut regrouper sous une même rubrique plusieurs ensembles d'opérations. 
 
 ETAT C 40 
 
 OPERATIONS REALISEES POUR LE COMPTE D'UNIONS D'INSTITUTIONS DE PREVOYANCE. 
 
-Les institutions de prévoyance établissent l'état ci-après pour chacune des unions dont elles sont membres :
+Les institutions de prévoyance établissent l'état ci-après pour chacune des unions dont elles sont membres : 
 
 <table align="center" border="1" cellpadding="0" cellspacing="0" width="605">
   <tbody>
     <tr>
       <td>
 
-RISQUES ET ENGAGEMENTS
+RISQUES ET ENGAGEMENTS 
 
 </td>
       <td>
 
-COTISATIONS (1)
+COTISATIONS (1) 
 
 </td>
       <td>
 
-PRESTATIONS (1)
+PRESTATIONS (1) 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-Branches 1 et 26. - Accidents-maladie (2) (3)
+Branches 1 et 26.-Accidents-maladie (2) (3) 
 
 </td>
       <td valign="top">
@@ -820,7 +820,7 @@ Branches 1 et 26. - Accidents-maladie (2) (3)
     <tr>
       <td valign="top">
 
-Branche 16 a. - Chômage (2) (3)
+Branche 16 a.-Chômage (2) (3) 
 
 </td>
       <td valign="top">
@@ -829,7 +829,7 @@ Branche 16 a. - Chômage (2) (3)
     <tr>
       <td valign="top">
 
-Branche 20. - Vie-décès
+Branche 20.-Vie-décès 
 
 </td>
       <td valign="top">
@@ -838,7 +838,7 @@ Branche 20. - Vie-décès
     <tr>
       <td valign="top">
 
-Branche 21. - Nuptialité-natalité
+Branche 21.-Nuptialité-natalité 
 
 </td>
       <td valign="top">
@@ -847,7 +847,7 @@ Branche 21. - Nuptialité-natalité
     <tr>
       <td valign="top">
 
-Branche 22. - Assurances liées à des fonds d'investissement
+Branche 22.-Assurances liées à des fonds d'investissement 
 
 </td>
       <td valign="top">
@@ -856,7 +856,7 @@ Branche 22. - Assurances liées à des fonds d'investissement
     <tr>
       <td valign="top">
 
-Branche 24. - Capitalisation
+Branche 24.-Capitalisation 
 
 </td>
       <td valign="top">
@@ -865,7 +865,7 @@ Branche 24. - Capitalisation
     <tr>
       <td valign="top">
 
-Branche 25. - Gestion de fonds collectifs
+Branche 25.-Gestion de fonds collectifs 
 
 </td>
       <td valign="top">
@@ -874,7 +874,7 @@ Branche 25. - Gestion de fonds collectifs
     <tr>
       <td valign="top">
 
-Branches 26. - Opérations à caractère collectif de l'article L. 932-24
+Branches 26.-Opérations à caractère collectif de l'article L. 932-24 
 
 </td>
       <td valign="top">
@@ -883,7 +883,7 @@ Branches 26. - Opérations à caractère collectif de l'article L. 932-24
     <tr>
       <td valign="top">
 
-Total
+Total 
 
 </td>
       <td valign="top">
@@ -892,11 +892,11 @@ Total
     <tr>
       <td colspan="3" valign="top">
 
-(1) Cotisations et prestations afférentes à l'exercice, brutes de réassurance.
+(1) Cotisations et prestations afférentes à l'exercice, brutes de réassurance. 
 
-(2) Cotisations au sens de la ligne 7. Cotisations acquises à l'année » du tableau C de l'état C 10.
+(2) Cotisations au sens de la ligne 7. Cotisations acquises à l'année » du tableau C de l'état C 10. 
 
-(3) Prestations au sens de la ligne 4. Charges nettes de recours » du même tableau C.
+(3) Prestations au sens de la ligne 4. Charges nettes de recours » du même tableau C. 
 
 </td>
     </tr>
@@ -915,14 +915,14 @@ ACTION SOCIALE
 </td>
       <td width="227">
 
-MONTANT
+MONTANT 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="454">
 
-1. Produits prélevés :
+1. Produits prélevés : 
 
 </td>
       <td valign="top" width="227">
@@ -930,7 +930,7 @@ MONTANT
     <tr>
       <td valign="top" width="454">
 
-1 a. Sur opérations Non-vie
+1 a. Sur opérations Non-vie 
 
 </td>
       <td valign="top" width="227">
@@ -938,7 +938,7 @@ MONTANT
     <tr>
       <td valign="top" width="454">
 
-2 b. Sur opérations Vie
+2 b. Sur opérations Vie 
 
 </td>
       <td valign="top" width="227">
@@ -946,7 +946,7 @@ MONTANT
     <tr>
       <td valign="top" width="454">
 
-2. Produits sur placements (1)
+2. Produits sur placements (1) 
 
 </td>
       <td valign="top" width="227">
@@ -954,7 +954,7 @@ MONTANT
     <tr>
       <td valign="top" width="454">
 
-3. Autres produits (2)
+3. Autres produits (2) 
 
 </td>
       <td valign="top" width="227">
@@ -962,7 +962,7 @@ MONTANT
     <tr>
       <td valign="top" width="454">
 
-4. Produits exceptionnels (3)
+4. Produits exceptionnels (3) 
 
 </td>
       <td valign="top" width="227">
@@ -970,7 +970,7 @@ MONTANT
     <tr>
       <td valign="top" width="454">
 
-Total produits
+Total produits 
 
 </td>
       <td valign="top" width="227">
@@ -978,7 +978,7 @@ Total produits
     <tr>
       <td valign="top" width="454">
 
-5. Allocations, attribution, et frais payés et à payer (4) :
+5. Allocations, attribution, et frais payés et à payer (4) : 
 
 </td>
       <td valign="top" width="227">
@@ -986,7 +986,7 @@ Total produits
     <tr>
       <td valign="top" width="454">
 
-5 a. A caractère individuel
+5 a.A caractère individuel 
 
 </td>
       <td valign="top" width="227">
@@ -994,7 +994,7 @@ Total produits
     <tr>
       <td valign="top" width="454">
 
-5 b. A caractère collectif
+5 b.A caractère collectif 
 
 </td>
       <td valign="top" width="227">
@@ -1002,7 +1002,7 @@ Total produits
     <tr>
       <td valign="top" width="454">
 
-5 c. Autres allocations et attributions
+5 c. Autres allocations et attributions 
 
 </td>
       <td valign="top" width="227">
@@ -1010,7 +1010,7 @@ Total produits
     <tr>
       <td valign="top" width="454">
 
-6. Frais de gestion (5)
+6. Frais de gestion (5) 
 
 </td>
       <td valign="top" width="227">
@@ -1018,7 +1018,7 @@ Total produits
     <tr>
       <td valign="top" width="454">
 
-7. Charges exceptionnelles (6)
+7. Charges exceptionnelles (6) 
 
 </td>
       <td valign="top" width="227">
@@ -1026,7 +1026,7 @@ Total produits
     <tr>
       <td valign="top" width="454">
 
-Total charges
+Total charges 
 
 </td>
       <td valign="top" width="227">
@@ -1034,7 +1034,7 @@ Total charges
     <tr>
       <td valign="top" width="454">
 
-Résultat de l'action sociale
+Résultat de l'action sociale 
 
 </td>
       <td valign="top" width="227">
@@ -1042,17 +1042,17 @@ Résultat de l'action sociale
     <tr>
       <td colspan="2" valign="top" width="454">
 
-(1) F 3.
+(1) F 3. 
 
-(2) F 7.
+(2) F 7. 
 
-(3) F 9 a.
+(3) F 9 a. 
 
-(4) F 8 a.
+(4) F 8 a. 
 
-(5) F 8 b.
+(5) F 8 b. 
 
-(6) F 9 b (part imputable à l'action sociale des postes du compte de résultat non technique).
+(6) F 9 b (part imputable à l'action sociale des postes du compte de résultat non technique). 
 
 </td>
     </tr>
@@ -1066,43 +1066,43 @@ ELEMENTS STATISTIQUES RELATIFS A LA PROTECTION SOCIALE COMPLEMENTAIRE.
 Les institutions de prévoyance et les unions d'institutions de prévoyance établissent pour leurs opérations directes (hors
 acceptations) en France les états suivants : 
 
-A. - Etat C 42 
+A.-Etat C 42 
 
-Statistiques relatives aux différentes catégories d'opérations en France
+Statistiques relatives aux différentes catégories d'opérations en France 
 
 <table align="center" border="1" cellpadding="0" cellspacing="0" width="605">
   <tbody>
     <tr>
       <td rowspan="2" width="290">
 
-RISQUES ET ENGAGEMENTS
+RISQUES ET ENGAGEMENTS 
 
 </td>
       <td colspan="4" width="315">
 
-OPÉRATIONS DIRECTES EN FRANCE
+OPÉRATIONS DIRECTES EN FRANCE 
 
 </td>
     </tr>
     <tr>
       <td width="86">
 
-Collectives à adhésion obligatoire
+Collectives à adhésion obligatoire 
 
 </td>
       <td width="88">
 
-Collectives à adhésion facultative
+Collectives à adhésion facultative 
 
 </td>
       <td width="84">
 
-Individuelles
+Individuelles 
 
 </td>
       <td width="57">
 
-Total
+Total 
 
 </td>
     </tr>
@@ -1131,7 +1131,7 @@ Frais de santé :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1142,7 +1142,7 @@ Frais de santé :
     <tr>
       <td valign="top" width="290">
 
-Incapacité - Invalidité :
+Incapacité-Invalidité : 
 
 </td>
       <td valign="top" width="86">
@@ -1175,7 +1175,7 @@ Mensualisation :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1208,7 +1208,7 @@ Autres indemnités journalières :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1252,7 +1252,7 @@ Rentes d'invalidité :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1285,7 +1285,7 @@ Chômage :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1329,7 +1329,7 @@ Indemnité et prime de fin de carrière :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1373,7 +1373,7 @@ Retraite supplémentaire :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1417,7 +1417,7 @@ Capital :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1428,7 +1428,7 @@ Capital :
     <tr>
       <td valign="top" width="290">
 
-Décès :
+Décès : 
 
 </td>
       <td valign="top" width="86">
@@ -1461,7 +1461,7 @@ Invalidité totale et définitive :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1505,7 +1505,7 @@ Rente de conjoint survivant :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1549,7 +1549,7 @@ Rente d'éducation ou d'orphelin :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes au 31 décembre
+- nombre d'entreprises adhérentes au 31 décembre 
 
 </td>
       <td valign="top" width="86">
@@ -1582,7 +1582,7 @@ Total :
     <tr>
       <td valign="top" width="290">
 
-- nombre d'entreprises adhérentes
+- nombre d'entreprises adhérentes 
 
 </td>
       <td valign="top" width="86">
@@ -1593,7 +1593,7 @@ Total :
     <tr>
       <td valign="top" width="290">
 
-(Préciser : avec double compte - sans double compte.)
+(Préciser : avec double compte-sans double compte.) 
 
 </td>
       <td valign="top" width="86">
@@ -1604,16 +1604,16 @@ Total :
     <tr>
       <td colspan="5" valign="top" width="605">
 
-(1) Cotisants : participants visés aux 1
-          <sup>o</sup> et 2
-          <sup>o</sup> de l'article L. 931-3 du code de la sécurité sociale.
+(1) Cotisants : participants visés aux 
+          <sup>1o</sup> et 
+          <sup>2o</sup> de l'article L. 931-3 du code de la sécurité sociale.
 
 </td>
     </tr>
   </tbody>
 </table>
 
-B. - Etat C 42 
+B.-Etat C 42 
 
 Cotisations et prestations 
 
@@ -1622,114 +1622,114 @@ Cotisations et prestations
     <tr>
       <td rowspan="3" width="178">
 
-RISQUES ET ENGAGEMENTS
+RISQUES ET ENGAGEMENTS 
 
 </td>
       <td colspan="8" width="436">
 
-OPÉRATIONS DIRECTES EN FRANCE
+OPÉRATIONS DIRECTES EN FRANCE 
 
 </td>
     </tr>
     <tr>
       <td colspan="2" width="113">
 
-Collectives à adhésion obligatoire
+Collectives à adhésion obligatoire 
 
 </td>
       <td colspan="2" width="132">
 
-Collectives à adhésion facultative
+Collectives à adhésion facultative 
 
 </td>
       <td colspan="2" width="96">
 
-Individuelles
+Individuelles 
 
 </td>
       <td colspan="2" width="84">
 
-Total
+Total 
 
 </td>
     </tr>
     <tr>
       <td width="57">
 
-Cot.
+Cot. 
 
 </td>
       <td width="57">
 
-Prest.
+Prest. 
 
 </td>
       <td width="57">
 
-Cot.
+Cot. 
 
 </td>
       <td width="57">
 
-Prest.
+Prest. 
 
 </td>
       <td width="57">
 
-Cot.
+Cot. 
 
 </td>
       <td width="57">
 
-Prest.
+Prest. 
 
 </td>
       <td width="57">
 
-Cot.
+Cot. 
 
 </td>
       <td width="57">
 
-Prest.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="178">
-
-Frais de santé (2) (3)
-
-</td>
-      <td valign="top" width="57">
-
-</td>
-      <td valign="top" width="57">
-
-</td>
-      <td valign="top" width="57">
-
-</td>
-      <td valign="top" width="57">
-
-</td>
-      <td valign="top" width="57">
-
-</td>
-      <td valign="top" width="57">
-
-</td>
-      <td valign="top" width="57">
-
-</td>
-      <td valign="top" width="57">
+Prest. 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="178">
 
-Incapacité - invalidité (2) (3) :
+Frais de santé (2) (3) 
+
+</td>
+      <td valign="top" width="57">
+
+</td>
+      <td valign="top" width="57">
+
+</td>
+      <td valign="top" width="57">
+
+</td>
+      <td valign="top" width="57">
+
+</td>
+      <td valign="top" width="57">
+
+</td>
+      <td valign="top" width="57">
+
+</td>
+      <td valign="top" width="57">
+
+</td>
+      <td valign="top" width="57">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="178">
+
+Incapacité-invalidité (2) (3) :
 
 </td>
       <td valign="top" width="57">
@@ -1822,7 +1822,7 @@ Incapacité - invalidité (2) (3) :
     <tr>
       <td valign="top" width="178">
 
-- rentes d'invalidité
+- rentes d'invalidité 
 
 </td>
       <td valign="top" width="57">
@@ -1853,7 +1853,7 @@ Incapacité - invalidité (2) (3) :
     <tr>
       <td valign="top" width="178">
 
-Chômage (2) (3)
+Chômage (2) (3) 
 
 </td>
       <td valign="top" width="57">
@@ -1884,7 +1884,7 @@ Chômage (2) (3)
     <tr>
       <td valign="top" width="178">
 
-Indemnité et prime de fin de carrière
+Indemnité et prime de fin de carrière 
 
 </td>
       <td valign="top" width="57">
@@ -1915,7 +1915,7 @@ Indemnité et prime de fin de carrière
     <tr>
       <td valign="top" width="178">
 
-Retraite supplémentaire
+Retraite supplémentaire 
 
 </td>
       <td valign="top" width="57">
@@ -2039,7 +2039,7 @@ Décès :
     <tr>
       <td valign="top" width="178">
 
-- rente d'éducation ou d'orphelin
+- rente d'éducation ou d'orphelin 
 
 </td>
       <td valign="top" width="57">
@@ -2070,7 +2070,7 @@ Décès :
     <tr>
       <td valign="top" width="178">
 
-Montant total
+Montant total 
 
 </td>
       <td valign="top" width="57">
@@ -2101,16 +2101,16 @@ Montant total
     <tr>
       <td colspan="9" valign="top" width="605">
 
-(2) Cotisations au sens de la ligne "7. Cotisations acquises à l'année" du tableau C de l'état C 10.
+(2) Cotisations au sens de la ligne " 7. Cotisations acquises à l'année " du tableau C de l'état C 10. 
 
-(3) Prestations au sens de la ligne "4. Charges nettes de recours" du même tableau C.
+(3) Prestations au sens de la ligne " 4. Charges nettes de recours " du même tableau C.
 
 </td>
     </tr>
   </tbody>
 </table>
 
-C. - Etat C 42 
+C.-Etat C 42 
 
 Frais de santé 
 
@@ -2119,41 +2119,41 @@ Frais de santé
     <tr>
       <td rowspan="2" width="234">
 
-MONTANT DES PRESTATIONS (1)
+MONTANT DES PRESTATIONS (1) 
 
 </td>
       <td colspan="4" width="371">
 
-OPÉRATIONS DIRECTES EN FRANCE
+OPÉRATIONS DIRECTES EN FRANCE 
 
 </td>
     </tr>
     <tr>
       <td width="98">
 
-Collectives à adhésion obligatoire
+Collectives à adhésion obligatoire 
 
 </td>
       <td width="98">
 
-Collectives à adhésion facultative
+Collectives à adhésion facultative 
 
 </td>
       <td width="98">
 
-Individuelles
+Individuelles 
 
 </td>
       <td width="78">
 
-Total
+Total 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="234">
 
-Hôpitaux publics et PSPH
+Hôpitaux publics et PSPH 
 
 </td>
       <td valign="top" width="98">
@@ -2164,7 +2164,7 @@ Hôpitaux publics et PSPH
     <tr>
       <td valign="top" width="234">
 
-Hôpitaux privés
+Hôpitaux privés 
 
 </td>
       <td valign="top" width="98">
@@ -2197,7 +2197,7 @@ Sections médicalisées :
     <tr>
       <td valign="top" width="234">
 
-- privées
+- privées 
 
 </td>
       <td valign="top" width="98">
@@ -2208,7 +2208,7 @@ Sections médicalisées :
     <tr>
       <td valign="top" width="234">
 
-Sous-total : hôpitaux - Sections médicalisées
+Sous-total : hôpitaux-Sections médicalisées 
 
 </td>
       <td valign="top" width="98">
@@ -2252,7 +2252,7 @@ Cabinets libéraux :
     <tr>
       <td valign="top" width="234">
 
-- dentistes
+- dentistes 
 
 </td>
       <td valign="top" width="98">
@@ -2263,7 +2263,7 @@ Cabinets libéraux :
     <tr>
       <td valign="top" width="234">
 
-Laboratoires d'analyses
+Laboratoires d'analyses 
 
 </td>
       <td valign="top" width="98">
@@ -2274,7 +2274,7 @@ Laboratoires d'analyses
     <tr>
       <td valign="top" width="234">
 
-Etablissements thermaux
+Etablissements thermaux 
 
 </td>
       <td valign="top" width="98">
@@ -2285,7 +2285,7 @@ Etablissements thermaux
     <tr>
       <td valign="top" width="234">
 
-Sous-total : soins ambulatoires
+Sous-total : soins ambulatoires 
 
 </td>
       <td valign="top" width="98">
@@ -2296,7 +2296,7 @@ Sous-total : soins ambulatoires
     <tr>
       <td valign="top" width="234">
 
-Transports
+Transports 
 
 </td>
       <td valign="top" width="98">
@@ -2307,7 +2307,7 @@ Transports
     <tr>
       <td valign="top" width="234">
 
-Total : prestations de soins
+Total : prestations de soins 
 
 </td>
       <td valign="top" width="98">
@@ -2318,7 +2318,7 @@ Total : prestations de soins
     <tr>
       <td valign="top" width="234">
 
-Officines pharmaceutiques
+Officines pharmaceutiques 
 
 </td>
       <td valign="top" width="98">
@@ -2329,7 +2329,7 @@ Officines pharmaceutiques
     <tr>
       <td valign="top" width="234">
 
-Distributeurs d'autres biens médicaux (lunetterie-orthopédie)
+Distributeurs d'autres biens médicaux (lunetterie-orthopédie) 
 
 </td>
       <td valign="top" width="98">
@@ -2340,7 +2340,7 @@ Distributeurs d'autres biens médicaux (lunetterie-orthopédie)
     <tr>
       <td valign="top" width="234">
 
-Total : biens médicaux
+Total : biens médicaux 
 
 </td>
       <td valign="top" width="98">
@@ -2351,7 +2351,7 @@ Total : biens médicaux
     <tr>
       <td valign="top" width="234">
 
-Total des prestations
+Total des prestations 
 
 </td>
       <td valign="top" width="98">
@@ -2362,16 +2362,21 @@ Total des prestations
     <tr>
       <td colspan="5" valign="top" width="605">
 
-(1) Prestations afférentes à l'exercice, brutes de réassurance, au sens de la ligne "4. Charge nette de recours" du tableau C
-de l'état C 10.
+(1) Prestations afférentes à l'exercice, brutes de réassurance, au sens de la ligne " 4. Charge nette de recours " du tableau
+C de l'état C 10.
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V)
+  - Décret n°2010-217 du 3 mars 2010 - art. 5
