@@ -54,34 +54,65 @@ Epaule
     <tr>
       <td valign="top" width="246">
 
-Epaule douloureuse simple (tendinopathie de la coiffe des rotateurs).
+Tendinopathie aiguë non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs.
 
 </td>
       <td valign="top" width="76">
 
-7 jours
+30 jours
 
 </td>
       <td valign="top" width="283">
 
-Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.
+Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) avec un angle supérieur ou égal à
+60° pendant au moins 3 h 30 par jour en cumulé.
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="246">
 
-Epaule enraidie succédant à une épaule douloureuse simple rebelle.
+Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs objectivée par IRM
+(*).
 
 </td>
       <td valign="top" width="76">
 
-90 jours
+6 mois (sous réserve d'une durée d'exposition de 6 mois)
 
 </td>
-      <td valign="top" width="283">
+      <td valign="top" width="283">Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction
+(**) :
 
-Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.
+- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé
+
+ou
+
+- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé.
+
+</td>
+    </tr>
+    <tr>
+      <td>Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (*).
+
+</td>
+      <td>1 an (sous réserve d'une durée d'exposition d'un an)
+
+</td>
+      <td>Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) :
+
+- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé
+
+ou
+
+- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé. 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">(*) Ou un arthroscanner en cas de contre-indication à l'IRM.
+
+(**) Les mouvements en abduction correspondent aux mouvements entraînant un décollement des bras par rapport au corps.
 
 </td>
     </tr>
@@ -153,9 +184,9 @@ des mouvements de supination et pronosupination.
 Hygromas :
 
 </td>
-      <td valign="top" width="76">
-      </td><td valign="top" width="283">
-    </td></tr>
+      <td valign="top" width="76"> </td>
+      <td valign="top" width="283"> </td>
+    </tr>
     <tr>
       <td valign="top" width="246">
 
@@ -342,9 +373,9 @@ Travaux comportant de manière habituelle une position accroupie prolongée.
 Hygromas :
 
 </td>
-      <td valign="top" width="76">
-      </td><td valign="top" width="283">
-    </td></tr>
+      <td valign="top" width="76"> </td>
+      <td valign="top" width="283"> </td>
+    </tr>
     <tr>
       <td valign="top" width="246">
 
@@ -463,12 +494,8 @@ Travaux comportant de manière habituelle des efforts pratiqués en station prol
 
 _Codifié par_:
 
-  - Décret n°85-1353 1985-12-17
+  - Décret n°85-1353 du 17 décembre 1985
 
 _Modifié par_:
 
-  - Décret n°91-877 du 3 septembre 1991 - art. 5 () JORF 7 septembre 1991
-
-**Liens**:
-
-  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+  - Décret n°2011-1315 du 17 octobre 2011 - art. 1
