@@ -6,7 +6,7 @@
 Affections périarticulaires provoquées par certains gestes et postures de travail**
   </font>
 
-<table border="1" align="center" cellspacing="0" width="605" cellpadding="0">
+<table width="605" align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td width="246">
@@ -52,36 +52,67 @@ Epaule
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
-Epaule douloureuse simple (tendinopathie de la coiffe des rotateurs).
-
-</td>
-      <td valign="top" width="76">
-
-7 jours
+Tendinopathie aiguë non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs.
 
 </td>
-      <td width="283" valign="top">
+      <td width="76" valign="top">
 
-Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.
+30 jours
+
+</td>
+      <td valign="top" width="283">
+
+Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) avec un angle supérieur ou égal à
+60° pendant au moins 3 h 30 par jour en cumulé.
 
 </td>
     </tr>
     <tr>
       <td width="246" valign="top">
 
-Epaule enraidie succédant à une épaule douloureuse simple rebelle.
+Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs objectivée par IRM
+(*).
 
 </td>
       <td width="76" valign="top">
 
-90 jours
+6 mois (sous réserve d'une durée d'exposition de 6 mois)
 
 </td>
-      <td width="283" valign="top">
+      <td width="283" valign="top">Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction
+(**) :
 
-Travaux comportant habituellement des mouvements répétés ou forcés de l'épaule.
+- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé
+
+ou
+
+- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé.
+
+</td>
+    </tr>
+    <tr>
+      <td>Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (*).
+
+</td>
+      <td>1 an (sous réserve d'une durée d'exposition d'un an)
+
+</td>
+      <td>Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) :
+
+- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé
+
+ou
+
+- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé. 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3">(*) Ou un arthroscanner en cas de contre-indication à l'IRM.
+
+(**) Les mouvements en abduction correspondent aux mouvements entraînant un décollement des bras par rapport au corps.
 
 </td>
     </tr>
@@ -112,27 +143,9 @@ Coude
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
-
-Epicondylite.
-
-</td>
-      <td valign="top" width="76">
-
-7 jours
-
-</td>
-      <td width="283" valign="top">
-
-Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des
-mouvements de supination et pronosupination.
-
-</td>
-    </tr>
-    <tr>
       <td width="246" valign="top">
 
-Epitrochléite.
+Epicondylite.
 
 </td>
       <td width="76" valign="top">
@@ -142,27 +155,45 @@ Epitrochléite.
 </td>
       <td valign="top" width="283">
 
+Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des
+mouvements de supination et pronosupination.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="246">
+
+Epitrochléite.
+
+</td>
+      <td width="76" valign="top">
+
+7 jours
+
+</td>
+      <td width="283" valign="top">
+
 Travaux comportant habituellement des mouvements répétés d'adduction ou de flexion et pronation de la main et du poignet ou
 des mouvements de supination et pronosupination.
 
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 Hygromas :
 
 </td>
-      <td valign="top" width="76">
-      </td><td width="283" valign="top">
-    </td></tr>
+      <td valign="top" width="76"> </td>
+      <td width="283" valign="top"> </td>
+    </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 - hygroma aigu des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du coude ;
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
 
 7 jours
 
@@ -174,17 +205,17 @@ Travaux comportant habituellement un appui prolongé sur la face postérieure du
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 - hygroma chronique des bourses séreuses.
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
 
 90 jours
 
 </td>
-      <td width="283" valign="top">
+      <td valign="top" width="283">
 
 Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
 
@@ -196,12 +227,12 @@ Travaux comportant habituellement un appui prolongé sur la face postérieure du
 Syndrome de la gouttière épitrochléo-olécrânienne (compression du nerf cubital).
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 90 jours
 
 </td>
-      <td valign="top" width="283">
+      <td width="283" valign="top">
 
 Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
 
@@ -234,7 +265,7 @@ Poignet - Main et doigt
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 Tendinite.
 
@@ -244,7 +275,7 @@ Tendinite.
 7 jours
 
 </td>
-      <td valign="top" width="283" rowspan="2">
+      <td rowspan="2" width="283" valign="top">
 
 Travaux comportant de façon habituelle des mouvements répétés ou prolongés des tendons fléchisseurs ou extenseurs de la main
 et des doigts.
@@ -252,7 +283,7 @@ et des doigts.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 Ténosynovite.
 
@@ -320,31 +351,31 @@ Genou
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 Syndrome de compression du nerf sciatique poplité externe.
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
 
 7 jours
 
 </td>
-      <td valign="top" width="283">
+      <td width="283" valign="top">
 
 Travaux comportant de manière habituelle une position accroupie prolongée.
 
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 Hygromas :
 
 </td>
-      <td width="76" valign="top">
-      </td><td valign="top" width="283">
-    </td></tr>
+      <td valign="top" width="76"> </td>
+      <td width="283" valign="top"> </td>
+    </tr>
     <tr>
       <td width="246" valign="top">
 
@@ -356,7 +387,7 @@ Hygromas :
 7 jours
 
 </td>
-      <td valign="top" width="283">
+      <td width="283" valign="top">
 
 Travaux comportant de manière habituelle un appui prolongé sur le genou.
 
@@ -368,7 +399,7 @@ Travaux comportant de manière habituelle un appui prolongé sur le genou.
 - hygroma chronique des bourses séreuses.
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 90 jours
 
@@ -385,12 +416,12 @@ Travaux comportant de manière habituelle un appui prolongé sur le genou.
 Tendinite sous-quadricipitale ou rotulienne.
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 7 jours
 
 </td>
-      <td valign="top" width="283">
+      <td width="283" valign="top">
 
 Travaux comportant de manière habituelle des mouvements répétés d'extension ou de flexion prolongées du genou.
 
@@ -440,17 +471,17 @@ Cheville et pied
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 Tendinite achiléenne.
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 7 jours
 
 </td>
-      <td width="283" valign="top">
+      <td valign="top" width="283">
 
 Travaux comportant de manière habituelle des efforts pratiqués en station prolongée sur la pointe des pieds.
 
@@ -463,12 +494,8 @@ Travaux comportant de manière habituelle des efforts pratiqués en station prol
 
 _Codifié par_:
 
-  - Décret n°85-1353 1985-12-17
+  - Décret n°85-1353 du 17 décembre 1985
 
 _Modifié par_:
 
-  - Décret n°91-877 du 3 septembre 1991 - art. 5 () JORF 7 septembre 1991
-
-**Liens**:
-
-  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+  - Décret n°2011-1315 du 17 octobre 2011 - art. 1
