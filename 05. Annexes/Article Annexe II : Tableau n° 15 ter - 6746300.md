@@ -1,9 +1,12 @@
 # Article Annexe II : Tableau n° 15 ter
 
-**Lésions prolifératives de la vessie provoquées par les amines aromatiques et leurs sels et la N.Nitroso-dibutylamine et ses
-sels**
+Lésions prolifératives de la vessie provoquées par les amines aromatiques suivantes et leurs sels : 4-aminobiphényle et sels
+(xénylamine) ; 4,4'-diaminobiphényle et sels (benzidine) ; 2-naphtylamine et sels ; 4,4'-méthylène bis (2-chloroaniline) et
+sels (MBOCA) ; 3,3'-diméthoxybenzidine et sels (o-dianisidine) ; 3,3'-diméthylbenzidine et sels (o-tolidine) ; 2-
+méthylaniline et sels (o-toluidine) ; 4-chloro-2-méthylaniline et sels (p-chloro-o-toluidine) ; auramine (qualité
+technique) ; colorants suivants dérivés de la benzidine : CI direct black 38, CI direct blue 6, CI direct brown 95. 
 
-<table align="center" border="1" cellpadding="0" cellspacing="0" width="605">
+<table align="center" border="1" cellpadding="0" cellspacing="0" width="650">
   <tbody>
     <tr>
       <td width="227">
@@ -25,42 +28,30 @@ LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
     <tr>
       <td valign="top" width="227">
 
-A. - Lésions primitives de l'épithélium vésical confirmées par examen histo-pathologique ou cyto-pathologique : - lésions
-malignes ;- tumeurs bénignes.
+Tumeur primitive de l'épithélium urinaire (vessie, voies excrétrices supérieures) confirmée par examen histopathologique ou
+cytopathologique. 
 
 </td>
       <td valign="top" width="76">
 
-30 ans (sous réserve d'une durée d'exposition de 5 ans)
+Trente ans (sous réserve d'une durée d'exposition de cinq ans).
 
 </td>
       <td valign="top" width="265">
 
-A. - Fabrication, emploi, manipulation exposant à des produits comportant l'apparition à l'état libre des substances
-limitativement énumérées ci-après : 4 - amino biphényle et sels (xénylamine) ;4,4' - diaminobiphényle et sels (benzidine) ; 2
-- naphtylamine et sels ; 4,4' - méthylène bis (2 chloroaniline) et sels (MBOCA dite MOCA).
+Travaux exposant aux amines aromatiques visées, notamment : 
 
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
+- travaux de synthèse de colorants dans l'industrie chimique ; 
 
-B. - Lésions primitives de l'épithélium vésical confirmées par examen histo-pathologique ou cyto-pathologique : - lésions
-malignes ;- tumeurs bénignes.
+- travaux de préparation et de mise en œuvre des colorants dans la fabrication d'encres et de peintures ; 
 
-</td>
-      <td valign="top" width="76">
+- travaux de préparation et de mise en œuvre des colorants dans l'industrie textile, l'imprimerie, l'industrie du cuir et
+l'industrie papetière ; 
 
-30 ans (sous réserve d'une durée d'exposition de 10 ans)
+- travaux de fabrication d'élastomères techniques en polyuréthanes ou en résines époxy utilisant la 4,4'-méthylène bis (2-
+chloroaniline) et ses sels (MBOCA), notamment comme durcisseur ; 
 
-</td>
-      <td valign="top" width="265">
-
-B. - Fabrication, emploi, manipulation exposant à des produits comportant l'apparition à l'état libre des substances
-limitativement énumérées ci-après : 3,3' - diméthoxybenzidine et sels (o.dianisidine) ; 3,3' - diméthylbenzidine et sels
-(o.tolidine) ; 2 - méthyl aniline et sels (o.toluidine) ; 4,4' - méthylène bis (2-méthylaniline) et sels (ditolylbase) ; Para
-chloro ortho toluidine et sels ; Auramine (qualité technique) ; Colorants dérivés de la benzidine : direct black 38, direct
-blue 6, direct brown 95 ; N. nitroso-dibutylamine et ses sels.
+- travaux de pesage, de mélangeage et de vulcanisation dans l'industrie du caoutchouc, particulièrement avant 1955.
 
 </td>
     </tr>
@@ -71,12 +62,8 @@ blue 6, direct brown 95 ; N. nitroso-dibutylamine et ses sels.
 
 _Codifié par_:
 
-  - Décret n°85-1353 1985-12-17
+  - Décret n°85-1353 du 17 décembre 1985
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°95-1196 du 6 novembre 1995 - art. 1 () JORF 10 novembre 1995
-
-**Liens**:
-
-  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+  - Décret n°2012-936 du 1er août 2012 - art. 1
