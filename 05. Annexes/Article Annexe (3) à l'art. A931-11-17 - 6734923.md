@@ -428,7 +428,7 @@ ou versements libres (sous-catégorie 084).
 Autres opérations individuelles d'assurance vie (y compris opérations collectives à adhésion facultative) à cotisations
 périodiques (sous-catégorie 094). 
 
-Opérations collectives en cas de décès (sous-catégories 085, 086, 095 et 096). 
+Opérations collectives en cas de décès (sous-catégories 085,086,095 et 096). 
 
 Opérations collectives en cas de vie (sous-catégories 088 et 098). 
 
@@ -446,12 +446,12 @@ Rentes collectives en cas de vie en service (partie de la sous-catégorie 072) (
 
 Opérations de rentes en unités de compte 
 
-Rentes différées en cours de constitution (partie des sous-catégories 083, 087, 093 et 097) (3). 
+Rentes différées en cours de constitution (partie des sous-catégories 083,087,093 et 097) (3). 
 
-Rentes en service (partie des sous-catégories 083, 087, 093 et 097) (3). 
+Rentes en service (partie des sous-catégories 083,087,093 et 097) (3). 
 
 Les opérations en unités de compte sont converties en francs à la contrevaleur de l'unité de compte à la date d'inventaire et
-regroupées toutes unités de compte confondues.L'institution ou l'union détient le détail de chaque catégorie ou sous-
+regroupées toutes unités de compte confondues. L'institution ou l'union détient le détail de chaque catégorie ou sous-
 catégorie par unité de compte. 
 
 (1) L'addition des éléments relatifs aux rentes individuelles différées en cours de constitution et aux rentes individuelles
@@ -461,7 +461,7 @@ en service est égale au total des éléments relatifs aux sous-catégories 041 
 service est égale au total des éléments relatifs à la sous-catégorie 072. 
 
 (3) L'addition des éléments relatifs aux rentes différées en cours de constitution et aux rentes en service est égale au
-total des éléments relatifs aux sous-catégories 083, 087, 093 et 097. 
+total des éléments relatifs aux sous-catégories 083,087,093 et 097. 
 
 ETAT C 21 
 
@@ -469,15 +469,16 @@ ETAT DETAILLE DES PROVISIONS TECHNIQUES.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a
 de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le
-modèle fixé ci-après, un état détaillé de leurs provisions techniques.
+modèle fixé ci-après, un état détaillé de leurs provisions techniques. 
 
 L'état est constitué de deux ensembles de lignes : 
 
 A.-Le premier ensemble de lignes est ordonné en quarante-trois rubriques correspondant aux catégories, sous-catégories ou
 regroupements d'opérations définies à l'état C 4 : 
 
-I.-Opérations directes en France : catégories ou sous-catégories 01, 02, 031, 032, 041, 042, 051, 052, 061, 062, 071, 072,
-081, 082, 083, 084, 085, 086, 087, 088, 091, 092, 093, 094, 095, 096, 097, 098, 10, 201, 202, 211, 212, 213 puis 214 ; 
+I.-Opérations directes en France : catégories ou sous-catégories
+01,02,031,032,041,042,051,052,061,062,071,072,081,082,083,084,085,086,087,088,091,092,093,094,095,096,097,098,10,201,202,211,
+212,213 puis 214 ; 
 
 II.-Opérations en libre prestation de services par un établissement en France ; 
 
@@ -494,17 +495,17 @@ francs ou en devises des opérations en unités de compte sont indiquées sur un
 contrat. 
 
 Sous réserve de respecter la décomposition par régime de participation aux excédents, les institutions et les unions peuvent
-regrouper au sein de chaque rubrique les règlements ou contrats types dont les provisions techniques représentent moins de 0,
-5 % du total des provisions techniques afférentes aux opérations directes en France ; 
+regrouper au sein de chaque rubrique les règlements ou contrats types dont les provisions techniques représentent moins de
+0,5 % du total des provisions techniques afférentes aux opérations directes en France ; 
 
 B.-Le deuxième ensemble de lignes retrace les provisions techniques communes à plusieurs règlements ou contrats types :
 
 - d'abord, celles des provisions pour participation aux excédents qui ne sont pas propres à un règlement ou contrat type ;
 
 - ensuite, les autres provisions techniques, notamment provisions pour aléas financiers, provisions de gestion, provision
-pour risque d'exigibilité des engagements techniques.
+pour risque d'exigibilité des engagements techniques. 
 
-L'état est complété par un total général.
+L'état est complété par un total général. 
 
 L'état comporte les colonnes suivantes :
 
@@ -544,7 +545,7 @@ ETAT C 30
 COTISATIONS, SINISTRES ET COMMISSIONS DES OPERATIONS NON-VIE DANS L'ESPACE ECONOMIQUE EUROPEEN. 
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b
-et / ou au c de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b
+et/ ou au c de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b
 établissent, selon le modèle fixé ci-après, un état des cotisations, sinistres et commissions relatifs à leurs opérations
 Non-vie effectuées dans chacun des Etats de l'Espace économique européen hors la France et un état récapitulatif. 
 
@@ -744,7 +745,7 @@ Total
     <tr>
       <td colspan="3" valign="top" width="605">
 
-(1) Pour la définition de ces branches, voir l'annexe à la directive 79 / 267 / CEE du 5 mai 1979. 
+(1) Pour la définition de ces branches, voir l'annexe à la directive 79/267/ CEE du 5 mai 1979. 
 
 </td>
     </tr>
@@ -780,7 +781,7 @@ alinéa de l'article A. 931-11-17 sont exclues des états C 10 et C 11.
 Les états modèles sont adaptés en tant que de besoin en remplaçant la mention " France " par l'indication du nom du pays, ou
 par la mention " LPS ". 
 
-Sous réserve de l'accord de              l'Autorité de contrôle prudentiel, l'institution ou l'union, dont l'activité le
+Sous réserve de l'accord de l'Autorité de contrôle prudentiel et de résolution, l'institution ou l'union, dont l'activité le
 justifie, peut regrouper sous une même rubrique plusieurs ensembles d'opérations. 
 
 ETAT C 40 
@@ -894,9 +895,9 @@ Total
 
 (1) Cotisations et prestations afférentes à l'exercice, brutes de réassurance. 
 
-(2) Cotisations au sens de la ligne 7. Cotisations acquises à l'année » du tableau C de l'état C 10. 
+(2) Cotisations au sens de la ligne 7. Cotisations acquises à l'année du tableau C de l'état C 10. 
 
-(3) Prestations au sens de la ligne 4. Charges nettes de recours » du même tableau C. 
+(3) Prestations au sens de la ligne 4. Charges nettes de recours du même tableau C. 
 
 </td>
     </tr>
@@ -986,7 +987,7 @@ Total produits
     <tr>
       <td valign="top" width="454">
 
-5 a.A caractère individuel 
+5 a. A caractère individuel 
 
 </td>
       <td valign="top" width="227">
@@ -994,7 +995,7 @@ Total produits
     <tr>
       <td valign="top" width="454">
 
-5 b.A caractère collectif 
+5 b. A caractère collectif 
 
 </td>
       <td valign="top" width="227">
@@ -1605,8 +1606,8 @@ Total :
       <td colspan="5" valign="top" width="605">
 
 (1) Cotisants : participants visés aux 
-          <sup>1o</sup> et 
-          <sup>2o</sup> de l'article L. 931-3 du code de la sécurité sociale.
+          <sup>1o </sup>et 
+          <sup>2o </sup>de l'article L. 931-3 du code de la sécurité sociale. 
 
 </td>
     </tr>
@@ -2103,7 +2104,7 @@ Montant total
 
 (2) Cotisations au sens de la ligne " 7. Cotisations acquises à l'année " du tableau C de l'état C 10. 
 
-(3) Prestations au sens de la ligne " 4. Charges nettes de recours " du même tableau C.
+(3) Prestations au sens de la ligne " 4. Charges nettes de recours " du même tableau C. 
 
 </td>
     </tr>
@@ -2379,4 +2380,8 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 _Modifié par_:
 
-  - Décret n°2010-217 du 3 mars 2010 - art. 5
+  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L931-1 (V)

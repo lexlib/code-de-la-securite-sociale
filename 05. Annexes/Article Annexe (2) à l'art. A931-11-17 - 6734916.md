@@ -527,8 +527,8 @@ règlement ou au contrat.
   </tbody>
 </table>
 
-Lorsque la faiblesse du montant des prestations périodiques servies le justifie,              l'Autorité de contrôle
-prudentiel peut dispenser l'institution ou l'union de remplir le tableau C. 
+Lorsque la faiblesse du montant des prestations périodiques servies le justifie, l'Autorité de contrôle prudentiel et de
+résolution peut dispenser l'institution ou l'union de remplir le tableau C. 
 
 ETAT C 10 
 
@@ -3667,4 +3667,4 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 _Modifié par_:
 
-  - Décret n°2010-217 du 3 mars 2010 - art. 5
+  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
