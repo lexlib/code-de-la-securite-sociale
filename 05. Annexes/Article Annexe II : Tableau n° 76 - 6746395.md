@@ -1,7 +1,7 @@
 # Article Annexe II : Tableau n° 76
 
 **Maladies liées à des agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à
-domicile**.
+domicile, ou en établissement d'hébergement pour personnes âgées dépendantes**.
 
 <pre>
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┯━━━━━━━━━━━┯━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -123,12 +123,8 @@ domicile**.
 
 _Codifié par_:
 
-  - Décret n°85-1353 1985-12-17
+  - Décret n°85-1353 du 17 décembre 1985
 
 _Modifié par_:
 
-  - Décret n°99-95 du 15 février 1999 - art. 1 () JORF 16 février 1999
-
-**Liens**:
-
-  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+  - Décret n°2015-1419 du 4 novembre 2015 - art. 1
