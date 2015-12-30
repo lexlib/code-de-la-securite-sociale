@@ -32,7 +32,7 @@ Ajaccio
 </td>
       <td valign="top" width="378">
 
-Corse-du-Sud, Haute-Corse.
+Corse-du-Sud, Haute-Corse, sauf pour le régime agricole.
 
 </td>
     </tr>
@@ -219,7 +219,8 @@ Marseille
 </td>
       <td valign="top" width="378">
 
-Alpes-de-Haute-Provence, Alpes-Maritimes, Hautes-Alpes, Bouches-du-Rhône, Var, Vaucluse. 
+Alpes-de-Haute-Provence, Alpes-Maritimes, Hautes-Alpes, Bouches-du-Rhône, Var, Vaucluse et, pour le régime agricole, Corse-
+du-Sud et Haute-Corse.
 
 </td>
     </tr>
@@ -445,6 +446,13 @@ Guadeloupe.
 </td>
     </tr>
     <tr>
+      <td>Saint-Denis de la Réunion </td>
+      <td>Mamoudzou 
+
+</td>
+      <td>Mayotte </td>
+    </tr>
+    <tr>
       <td valign="top" width="113">
 
 Saint-Denis-de-la-Réunion
@@ -468,4 +476,8 @@ Réunion.
 
 _Modifié par_:
 
-  - Décret n°2012-95 du 25 janvier 2012 - art.
+  - Décret n°2011-338 du 29 mars 2011 - art.
+
+_Abrogé par_:
+
+  - Décret n°2018-928 du 29 octobre 2018 - art. 11
